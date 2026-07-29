@@ -1,0 +1,14 @@
+# Origen, Homilies on the Song of Songs (Jerome's Latin) — Preface (Jerome to Pope Damasus)
+# Base text: J.-P. Migne (ed.), Patrologia Latina 23 (Vallarsi), cols. 1117-1144,
+#   'Interpretatio homiliarum Origenis in Canticum canticorum' (Jerome's Latin version).
+# Digital source: Corpus Corporum, University of Zurich (mlat.uzh.ch), TEI encoding
+#   by Ph. Roelli (2019); classical-Latin orthography. Public domain.
+# Stripped: Migne column numbers, scripture-reference notes, page breaks, and
+#   editorial '[Al. ...]' variant readings (Migne's main reading kept). Greek words kept.
+# [§N] markers follow this edition's natural paragraph divisions (PL 23 has no printed
+#   section numbers for these homilies).
+============================================================
+
+== Praefatio. BEATISSIMO PAPAE DAMASO HIERONYMUS. ==
+
+[§1] Origenes, cum in caeteris libris omnes vicerit, in Cantico Canticorum ipse se vicit. Nam decem voluminibus explicitis, quae ad viginti usque versuum millia pene perveniunt, primum Septuaginta Interpretes, deinde Aquilam et Symmachum et Theodotionem, et ad extremum quintam editionem, quam in Actio littore invenisse se scribit, ita magnifice aperteque disserit, ut vel inde mihi videatur in eo completum esse, quod dicitur: Introduxit me rex in cubiculum suum. Itaque illo opere praetermisso, quia ingentis est otii, laboris et sumptuum, tantas res, tamque dignum opus in Latinum transferre sermonem, hos duos tractatus, quos in morem quotidiani eloquii parvulis adhuc lactentibus composuit, fideliter magis quam ornate interpretatus sum: gustum tibi sensuum ejus, non cibum offerens; ut animadvertas quanti sint illa aestimanda, quae magna sunt, cum sic possint placere, quae parva sunt.
