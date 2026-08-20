@@ -1,0 +1,603 @@
+# Origen, *Commentariorum Series in Matthaeum* — Latin source — Matthew 27:1–66 (Comm. ser. §115–145)
+# The old-Latin *Series*: an anonymous late-antique (5th/6th c.) Latin rendering of Origen's
+#   now-lost Greek commentary, covering Matthew 22:34–27:66, transmitted as 145 numbered sections.
+#   This folder holds the Latin base text used for the English translation in the main repository.
+# Edition: E. Klostermann & E. Benz (edd.), *Origenes Werke* XI — *Matthäuserklärung* II:
+#   *Die lateinische Übersetzung der Commentariorum Series*, GCS 38 (Leipzig, 1933).
+# Digital source: the public-domain page scans of GCS 38 on archive.org. The running text was
+#   transcribed from the images and verified page-by-page against the printed critical text
+#   (a 20-page sampling QC measured a substantive word-error rate of ~0.02%).
+# Stripped: critical apparatus, running heads, marginal line-numbers, and the parallel Greek
+#   catena fragments Klostermann prints (this is the Latin reading text only).
+# Marks:  »…« = Scripture that Origen quotes;  *…* = the Matthew lemma under comment;
+#   ⟨…⟩ = the editor's supplements (insertions);  […] = the editor's seclusions;
+#   … = a printed lacuna (do not fill);  A et Ω etc. = Greek letters Origen's text quotes.
+#   [GCS p.N] = GCS 38 printed page,  [PG n] = Migne PG 13 column — kept for traceability.
+# Structure: == Comm. ser. N == follows Klostermann's section numbering (1–145).
+# English translation (public domain): https://github.com/HistoricalChristianFaith/Writings-Database
+============================================================
+
+== Comm. ser. 115 ==
+*Mane autem facto consilium acceperunt omnes principes sacerdotum et seniores plebis adversus Iesum, ut eum morti traderent; et vinctum eum abduxerunt et tradiderunt Pontio Pilato praesidi (27, 1. 2).*
+
+Qui in tenebris et nocte offendit venia dignus est, qui autem in die clara offendit numquam potest culpare errorem quasi continentem se (maxime quando habens in se »lucernam corporis« offendit) sed incontinentiam suam. hoc autem diximus ostendentes quoniam Christi quidem discipuli in nocte scandalizantur,
+
+secundum quod dominus eis praedicit: »omnes vos scandalum patiemini in me in hac nocte«, et quia Petrus ante galli cantum ter denegavit. qui autem *consilium* accipiunt contra Iesum *omnes principes et seniores plebis mane facto,* in lumine peccant id est scientes, secundum quod scriptum est de hoc consilio, quod consiliati sunt ex consensu »in unum« sicut scriptum est in Psalmis, *ut morti traderent* Christum
+
+[GCS p.242]
+
+putantes per mortem extinguere eius doctrinam et fidem eius apud eos, qui crediderunt in eum quasi in filium dei.
+
+talia autem contra eum consiliantes *principes* culturae litterae occidentis, et ministerii damnationis *seniores* alligaverunt Iesum solventem a vinculis et »dicentem eis qui sunt in vinculis: exite« et conpeditos solventem atque dicentem: »disrumpamus vincula eorum, et proiciamus a nobis iugum ipsorum«,
+
+et qui »filiam Abrahae« ligatam a satana »decem et octo annis« a vinculis solverat, ut iam nequaquam sit inclinata quae »non poterat penitus sursum aspicere prius«. et alligaverunt eum volentem et in eo quod alligaretur vinculis ipsis insidiantem ⟨et⟩ disrumpentem ea, ut iam non habeant *principes sacerdotum et seniores* Iudaeorum adversus homines vincula, domino ea videlicet disrumpente in se.
+
+Si quis autem exigit a me scripturam haec de disrumpendis vinculis ostendentem, quibus alligaverunt Iesum *principes sacerdotum et seniores*, intellegat quod propter hoc ipsum dicit ipse Iesus per prophetam: »disrumpamus vincula eorum«, tamquam si dicat principum sacerdotum et seniorum, aut multo magis eorum principum qui sunt operati in eis, et regum terrae illorum qui »adstiterunt«, et principum qui »convenerunt in unum adversus dominum et adversus Christum eius«, quorum et »iugum proiciamus a nobis«. adhuc autem amplius te placabit, ut suscipias quoniam, etsi alligantes Iesum duxerunt qui *consilium fecerunt* adversus eum, tamen disrupit Iesus vincula, si intellexeris quae scripta sunt de Samson, qui frequenter fuit ligatus
+
+[GCS p.243]
+
+et disrupit alienigenarum vincula, quoniam Nazaraeus fuerat dei et habebat comam plenam virtutis. si ergo ille propter comae virtutem, quam habebat in capite, potuit rumpere vincula alienigenarum, quibus alligaverant eum frequenter, quanto magis Christus, qui post tanta prodigia et virtutes quas fecit volens tradidit se ad vincula (soporans in se divinitatis virtutem et adquiescens, ut alligaretur), sine dubio disrupit vincula circumdantia se! quorum vinculorum mysteria vincula Samsonis fuerunt.
+
+== Comm. ser. 116 ==
+*et tradiderunt eum Pontio Pilato.* utrum autem etiam nomina utraque praesidis habeant aliquam rationem convenientem dispensationi domini salvatoris ‹an non›, non facile est sententialiter respondere. poterunt enim aliquem movere principalia ex quibus haec vocabula deducuntur, Pontius et Pilatus; utrum autem bene quis moveatur an non, unusquisque potentium considerare cognoscat.
+
+== Comm. ser. 117 ==
+*Tunc videns Iudas, qui eum tradidit, quoniam damnatus est, paenitentia ductus rettulit triginta argenteos principibus sacerdotum et senioribus dicens: peccavi quod tradiderim sanguinem iustum. at illi dixerunt: quid ad nos? tu videris. et proiectis argenteis in templo recessit, et abiens laqueo se suspendit. principes autem sacerdotum acceptis argenteis dixerunt: non licet mittere eos in corbanam, quia pretium sanguinis est. consilio autem accepto inter se emerunt agrum figuli in sepulturam peregrinorum. propter hoc vocatus est ager ille Acheldemach, quod est ager sanguinis, usque in hodiernum diem. tunc inpletum est quod dictum est per Hieremiam prophetam dicentem: et acceperunt triginta argenteos, pretium adpretiati, quod adpretiaverunt a filiis Israel, et dederunt eos in agrum figuli, sicut constituit mihi dominus* (27, 3—10).
+
+Respondeant mihi qui de naturis quasdam fabulas introducunt, aestimantes se dicere vera et non cognoscentes quod eorum opinio
+
+[GCS p.244]
+
+iniquitatem creatoris accusat, qui fecit quaedam quidem vasa »in honorem« non ex causa virtutis eorum ducentis eos ad honorem, quaedam autem »in contumeliam« non propter peccata eorum ducentia eos ad contumeliam.
+
+Si enim perdibilis naturae erat Iudas, quomodo paenitentiam tantam suscepit, ut non vinceretur cupiditate triginta argenteorum,
+
+propter quam impiam proditionis suscepit audaciam? si enim ad proprietatem naturarum referunt quod est dictum: »non potest arbor mala fructus bonos proferre«, dicant, nisi bonitatem aliquam spiret etsi non perfecte neque sicut debuit conversus Iudas: hoc ipsum quod *rettulit triginta argenteos* unde est, et quod dixit cognoscens pec[PG 915]catum suum: *peccavi tradens sanguinem iustum,* nisi ex bona plantatione mentis et ex seminatione virtutis, quae seminata est in omni rationabili anima, quam non coluit Iudas et ideo cecidit in tale peccatum? si autem naturae pereuntis est aliquis hominum, sine dubio magis huiusmodi naturae pereuntis fuit et Iudas. quod sine dubio fuisse videretur, si tradens *sanguinem iustum* aut non rettulisset pecunias condelectatus in eis, aut referens non dixisset, quia *peccavi tradens sanguinem iustum.*
+
+et si quidem post resurrectionem Christi ex mortuis dixisset Iudas quae dixit, forsitan verisimiliter erat dicendum, quoniam conpulit eum paenitere de facto et confiteri de suo peccato ipsa virtus resurrectionis ipsius. nunc autem mox ut vidit eum traditum esse Pilato, conpunctus paenituit; forsitan autem et recordatus ea, quae frequenter Iesus dixerat discipulis suis de resurrectione sua futura.
+
+[GCS p.245]
+
+videns igitur Iudas magnitudinem facinoris sui, paenituit quidem et locutus est ex paenitentia cordis confessus peccatum suum, eo quod tradiderit sanguinem iustum,
+
+»non autem et secundum scientiam«
+
+paenituit, sicut debuit paenitere. aestimavit enim praevenire in morte moriturum magistrum et occurrere ei cum anima nuda, ut confitens et deprecans misericordiam mereatur.
+
+propter quod ipse se iudicavit et condemnavit in eo quod sciens peccavit,
+
+et non aspexit in hoc quod dixerat Iob in tantis cladibus constitutus: »utinam possim me interficere, aut aliquem rogare ut faceret mihi hoc«, nec vidit quia non convenit servum dei seipsum expellere de hac vita,
+
+sed expectare etiam de hoc dei iudicium.
+
+Videamus nunc, si (quod latet multos … loci istius) deo donante possimus explicare quod dictum est: *videns autem Iudas, qui tradidit eum, quoniam condemnatus est, paenitentia ductus rettulit triginta argenteos principibus sacerdotum,* et cetera.
+
+si enim scriptum fuisset post sententiam Pilati, postquam flagellis caesum Iesum tradidit Iudaeis ut crucifigerent eum, quod ista fecisset Iudas, nihil sine dubio huiusmodi quaereremus in eo
+
+[GCS p.246]
+
+quod dictum est: *videns autem quia condemnatus est.* nunc autem quomodo vidit Iudas, *quoniam condemnatus est* (nec enim adhuc condemnatus fuerat Iesus neque a Pilato interrogatus)? forsitan ergo dicet aliquis (vim faciens), quoniam consideratione mentis suae vidit »exitum« rei quia condemnatus est ex eo, quod traditum aspexit a principibus sacerdotum et senioribus plebis.
+
+alius autem dicet hoc modo, quoniam quod scriptum est: *videns autem Iudas quia condemnatus est,* ad ipsum Iudam refertur.
+
+cum enim tradidissent Iesum principes sacerdotum et seniores plebis Pilato, tunc sensit malum suum Iudas et intellexit, quoniam qui talia ausus est, sine dubio iudicatus et *condemnatus* a deo est. forsitan et satanas qui post panem intinctum fuerat ingressus in Iudam, praesto fuit ei, donec Iesus traderetur Pilato.
+
+postquam autem fecit quod voluit »recessit ab eo«; recedente autem diabolo intellexit et vidit, quoniam tradens *sanguinem iustum condemnatus* a deo est, et potuit intellegere sensus eius iam vacans et non habens diabolum operantem in se. potuit ergo, a se recedente diabolo, capere paenitentiam
+
+[GCS p.247]
+
+et referre triginta argenteos his, qui dederant eos. et potuit dicere, recedente diabolo, quod priusquam ab eo recederet dicere non potuisset; nec enim adhuc inplente diabolo cor eius potuit dicere: *peccavi tradens sanguinem iustum.* sed non hoc dicimus, quoniam diabolus recedens ab aliquo tali iam nequaquam ei insidiatur. sed observat iterum tempus, si potuerit iterum se adponere ei; et postquam cognoverit et secundum peccatum suum quis, observat etiam tertiae deceptionis locum in eo diabolus.
+
+Si autem opus est et exemplis uti, videamus in epistola ad Corinthios prima eum qui »uxorem habuit patris«, nec enim in huiusmodi malo sine magno opere diaboli potuit esse. de quo malo paenituit, sicut scriptura ipsa testatur, et tristatus est »tristitiam secundum deum«, tristitiam »quae paenitentiam in salutem stabilem operatur«. sed postquam suscepit huiusmodi tristitiam, adposuit iterum se ei diabolus, volens ipsam tristitiam eius supra modum exaggerare, ut iam non esset »secundum deum« ipsa tristitia, sed ut abundantior facta absorberet tristantem supra mensuram et ultra quam tristari debuerat, et sic eum absorberet satanas in »abundantiori tristitia«. quod praecognoscens apostolus consilium Corinthiis dat, ut confirment »caritatem in eum«, dicens huiusmodi causam: »ut ne« inquit, »abundantiori tristitia absorbeatur qui huiusmodi est«; »non enim versutias eius ignoramus«. simile aliquid factum est et in Iuda, qui tradidit Iesum, et secundum similitudinem illius tristitiae »quae paenitentiam in salutem stabilem operatur«, tristatus et ipse, postquam paenitentia ductus ⟨est⟩, *rettulit triginta argenteos principibus sacerdotum dicens: peccavi tradens sanguinem iustum.* quod ipsum paenitentiae erat et tristitiae salutaris, sed quia numquam servavit eor suum neque sapienter tristatus est, sed suscepit abundantiorem tristitiam
+
+[GCS p.248]
+
+a diabolo sibi submissam (qui voluit eum absorbere in »abundantiori tristitia«), ideo referens *argenteos illos in templum abiens laqueo se suspendit.* si enim postquam rettulit pecuniam et confessus est se peccasse eo, quod tradidit *sanguinem iustum,* non *abiens laqueo se* suspendisset sed »locum paenitentiae« requisisset et tempus paenitentiae observasset, forsitan et invenisset eum qui dixit: »vivo ego, quoniam [PG 916] nolo mortem peccatoris, sicut paenitentiam eius«.
+
+Ego autem aestimo quoniam et maius aliquid de salvatore intellegens Iudas non alibi *proiecit triginta argenteos* nisi *in templum,* ubi sciebat dominum facto eiecisse de templo »oves et boves«, et dixisse »venditoribus columbarum: tollite haec hinc, et nolite facere domum patris mei domum negotiationis«. satis ergo desperans ex se quod intellexit magnitudinem sui peccati, iactans *argenteos illos in templum, abiit et laqueo se suspendit.* accipientes autem argenteos illos voluerunt aliquid legitimum observare, et ⟨non⟩ *mittere eos in corbanam,* ubi data populi propter necessitates pauperum congregabantur; *sanguinis* enim *pretium* impium aestimabant *mittere in corbanam.* propter quod *consilium accipientes* conparaverunt ex pecunia illa *agrum figuli* et operantis lutum; videbant enim quoniam circa mortuos magis eam pecuniam conveniebat expendi et circa locum mortuorum et sepulturae, quoniam *pretium sanguinis* erat, quam in corbana aut in aliqua necessitate honesta. sed quia et inter loca mortuorum differentiae sunt (quoniam multi quidem secundum votum optabiliter sepeliuntur in monumentis suis paternis, quidam autem
+
+[GCS p.249]
+
+propter quasdam calamitates frequenter in peregrinis monumentis sepeliuntur) ideo accipientes *pretium sanguinis* Iesu usi sunt eo ad conparationem agri *figuli* alicuius, ut in eo peregrini mortui sepeliantur, non secundum votum sed secundum casum aliquem contrarium hoc promerentes. si autem et peregrinos spiritaliter intellegere convenit, peregrinos dicimus esse, qui usque ad finem extranei sunt a deo et peregrini testamentorum eius. tales igitur peregrini huiusmodi habent finem, ut in agro *figuli* sepeliantur, qui pretio *sanguinis* est conparatus. nam iusti sunt, qui dicunt: »consepulti sumus« Christo »in novo monumento quod excisum habetur in petra«, »in monumento dolato, ubi nondum quisquam mortuorum positus est«. qui autem usque ad finem peregrini sunt a Christo et alieni a deo, dicent sine dubio consequenter: »consepulti sumus« peregrinis in agro *figuli* operantis lutum, qui pretio *sanguinis* est conparatus, et sumus in agro, qui *ager sanguinis* nominatur.
+
+Sed quoniam quod post haec dicit evangelista (*tunc inpletum est quod dictum fuerat per Hieremiam prophetam dicentem* quae scripta sunt), non invenitur hoc Hieremias alicubi prophetasse in libris suis qui vel in ecclesiis leguntur vel apud Iudaeos referuntur — si quis autem potest scire, ostendat ubi sit scriptum. suspicor autem aut errorem esse scripturae et pro Zacharia positum Hieremiam, aut esse aliquam secretam Hieremiae scripturam, in qua scribitur. talis est autem textus apud Zachariam prophetam: »et dicam ad eos: si bonum est in conspectu vestro, date mercedem meam, aut abnegate; et statuerunt mercedem meam triginta argenteos. et dixit dominus ad me: depone eos in fornacem, et vide si probum est, sicut probatus
+
+[GCS p.250]
+
+sum pro eis. et accepi triginta argenteos, et misi eos in domum domini in fornacem«. si autem hoc dicens aliquis aestimat se offendere, videat ne alicubi in secretis Hieremiae hoc prophetetur, sciens quoniam et apostolus scripturas quasdam secretorum profert, sicut dicit alicubi: »quod oculus non vidit nec auris audivit«; in nullo enim regulari libro hoc positum invenitur, nisi in secretis Eliae prophetae. item quod ait: »sicut Iamnes et Mambres restiterunt Moysi« non invenitur in publicis libris, sed in libro secreto qui suprascribitur liber Iamnes et Mambres. unde ausi sunt quidam epistolam ad Timotheum repellere quasi habentem in se textum alicuius secreti, sed non potuerunt; primam autem epistolam ad Corinthios propter hoc aliquem refutasse quasi adulterinam, ad aures meas numquam pervenit.
+
+== Comm. ser. 118 ==
+*Iesus autem stetit ante praesidem*; *et interrogavit eum praeses dicens*: *tu es rex Iudaeorum? dicit ei Iesus*: *tu dicis* (27, 11). Vere Iesus »non rapinam arbitratus est esse se aequalem deo«, et non semel sed frequenter pro hominibus seipsum humiliavit. et nunc ergo »iudex totius creaturae constitutus« a patre, rege regum et domino dominorum, vide in quantum se humiliavit, ut adquiesceret stare ante iudicem tunc terrae Iudaeae, et vocatus interrogatus est interrogationem, quam forsitan deridens aut dubitans Pilatus interrogavit dicens: *tu es rex Iudaeorum?*
+
+ad quam interrogationem quod putavit esse condecens respondit dicens *tu dicis*. et a principe quidem sacerdotum adiuratus, ut diceret si ipse est Christus filius dei, respondit: »tu dixisti«, a Pilato autem
+
+[GCS p.251]
+
+interrogatus *tu es rex Iudaeorum?* respondit *tu dicis.* vide interrogationes, nisi illa quidem interrogatio: »si tu es Christus filius dei«, Iudaicae conveniebat personae, Romano autem iudici dicenti interrogatorie iam non: tu es Christus, sed: *tu es rex Iudaeorum?*
+
+qui autem caute considerat ipsos apices evangelicorum sermonum, videbit quoniam princeps quidem sacerdotum dubitanter dixit: »si tu es Christus filius dei« (»si« enim syllaba dubitationem interrogationis ostendit), Pilatus autem pronuntiative:
+
+*tu es rex Iudaeorum.* quoniam autem pronuntiative hoc dixit Pilatus, illud quoque confirmat, quod etiam alibi suprascribit in titulo »rex Iudaeorum« tribus linguis, »Hebraice, Graece, et Latine«, ut et Hebraei et Graeci et Romani cognoscerent, quoniam et Pilatus sciebat eum regem Iudaeorum esse. propter quod apparet cum qua reverentia requirebat de Iesu et provocabat [PG 917] populum, ut Iesum magis ad dimittendum peterent quam Barabbam. reverentiae autem Pilati illud etiam fuit signum, quod lavans manus suas dixit: »innocens ego sum a sanguine huius; vos videritis«.
+
+quod autem dixit ad principem sacerdotum »tu dixisti« dubitationem eius oblique arguens convincit, et quod ait Pilato *tu dicis* sententiam eius pronuntiantis confirmat.
+
+Marcus autem pro: »si tu es Christus filius dei« sic scribit: »tu es filius benedicti?« forsitan aut illud quod simpliciter scriptum est, aut hoc quod dubitanter, nescio si non mendum habeant exemplaria, cum debuissent ambo aequaliter dicere: »si tu es«, aut ambo: »tu es«.
+
+== Comm. ser. 119 ==
+
+*Et cum accusaretur a principibus sacerdotum et senioribus plebis, nihil respondebat. tunc dicit ei Pilatus: non audis quanta ad-*
+
+[GCS p.252]
+
+*versus te dicunt testimonia? et non respondit illi ullum verbum, ita ut miraretur praeses vehementer* (27, 12—14).
+
+Iudaicae litterae occidentis ministri et seniores filii sunt eorum sacerdotum et seniorum, qui accusaverunt Iesum, accusationem eorum usque nunc suscipientes et accusantes Iesum. propterea permanente eis ipso peccato et praeveniente eos semel »ira usque in finem« adhuc patiuntur operationes ipsas, derelicti cum populo universo »sicut tabernaculum in vinea, et sicut casula in cucumerario, et sicut civitas quae expugnatur«. accusatus autem Iesus sicut tunc *nihil* respondit, sic et modo adversus accusationes istorum sacerdotum et seniorum *nihil* respondit. tacet enim eis verbum dei, et iam non audiunt verbum dei, sicut aliquando factum fuerat ad prophetas et in consummatione saeculorum »caro factum est et inhabitavit in nobis«.
+
+et non solis *principibus sacerdotum et senioribus plebis* falsa accusantibus *non respondit*
+
+sed neque Pilato, quoniam volebat eum audire defendentem se contra accusationes eorum mendaces. Quando enim *dixit ei Pilatus* post accusationes principum sacerdotum et seniorum: *non audis quanta te accusant?*
+
+neque ipsi *respondit*. nec enim erat dignum respondere vel dubitanti, utrum debeat adversus accusationes eorum falsas respondere.
+
+Hoc diximus non obliti quod dictum est de Pilato, quia vel momentum aliquod benignum erga Christum habebat (hoc enim verum esse de Pilato ex omni narratione eius ostenditur).
+
+non autem dicere quis audebit, quoniam permanens et firmum erat in eo de Christo iudicium. trahebatur enim et ad contraria;
+
+[GCS p.253]
+
+propterea et nunc trahenti ad deteriorem opinionem dominus *non respondit*, contemptis omnibus quae dicta fuerant in accusationem ipsius.
+
+miratus est autem Pilatus constantiam eius, forsitan sciens quomodo, cum idoneus esset pronuntiare et remittere crimen … miratus est videns eum in tranquilla et quieta sapientiae gravitate et inturbabili cum iudicio stare, in quo ad mortem periclitari aestimabatur ab his qui fuerant ibi, et fortior erat humana natura
+
+et omni eius infirmitate volente obtundere virtutem spiritus eius, non autem praevalente facere hoc.
+
+quod autem scriptum est, non solum mirari Pilatum, sed etiam *valde* mirari, movet me ut aestimem, quoniam dignum ei videbatur magno miraculo, ut exhibitus ad criminale iudicium Christus inturbabilis maneret et staret ante mortem, quae apud omnes homines terribilis aestimatur.
+
+== Comm. ser. 120 ==
+*Per diem autem sollemnem consueverat praeses dimittere populo unum vinctum quem voluissent* (27, 15).
+
+Non mireris si adhuc primordium habens Romanus principatus in eis, et noviter Iudaeis
+
+[GCS p.254]
+
+iugum suscipientibus Romanorum, quia donatum erat Iudaeis ut in sollemnitate paschali peterent *unum quem voluissent,*
+
+quamvis mille homicidiis obnoxius videretur. sic enim quasdam gratias praestant gentes eis quos subiciunt sibi, donec confirmetur super eos iugum ipsorum. tamen consuetudo haec absolvendi vincti fuit aliquando et apud Iudaeos. nam cum Saul decrevisset, ut ne quis acciperet cibum, Ionathas autem favum mellis gustasset contra regis decretum, invenit obnoxium Ionathan et quamvis filium constitutum tamen propter aliquod iuramentum suum decreverat interficere eum; sed non interfecit, omni populo Israel interveniente et petente eum ad vitam.
+
+Sed quod Pilatus dimisit *unum vinctum populo,* vel Saul secundum petitionem populi quod dimisit Ionathan, non est mirum; sub culpa enim erat amborum petentium vita, quoniam Iudaei semper obnoxii erant. sed illud quaeramus, si tale aliquid fiat et in iudicio dei, ut omnis ecclesia petere possit aliquem peccatorem ut solvatur a condemnatione peccati, maxime autem si quando habeat perditionis cetera opera, ad benefaciendum autem ecclesiae inpiger sit. tales enim invenies saepe in potentatibus constitutos, alias quidem peccatores, tamen pro Christianis quantum possibile eis est multa agentes. adduceris autem magis ad requirendum talia, si rationem habet idoneam, quod etiam Israel »pro vita Nabuchodonosor« et Balthasar filii eius deum orabat. sed hoc, si videtur alicui dignum requisitione, requiret. quod autem manifestum est, omnes curare temptemus, ut ex
+
+[GCS p.255]
+
+petentibus inveniamur esse et in ordine eorum qui bene vixerunt, magis quam ex illis, pro quibus petitur quasi pro hominibus malis. nam etsi concedatur aliquis peccatorum ad preces ecclesiae, non tamen iustum est gloriam et beatitudinem consequi eum, qui huiusmodi est, sufficit enim quod a poena dimittitur.
+
+Arbitror autem propter istum diem festum Iudaeorum, in quo Barabbas ad vitam electus est Christus autem neglectus, [PG 918] dominum dicere per prophetam: »ieiunia et ferias et dies festos vestros odit anima mea«. et quia magis sollemnitatem agere voluerunt cum latrone dimisso quam cum Iesu, verbi gratia dicam: si egissent sollemnitatem recte sicut Iosias aut aliquis similis ei, et data eis fuisset quem vellent petendi licentia, sine dubio Iesum postulassent Barabbam autem condemnassent. nos autem oremus, ut festum diem colentes, »non in fermento veteri neque in fermento malitiae et nequitiae, sed in azymis sinceritatis et veritatis«, Barabbam quidem condemnare, Iesum autem ab omnibus vinculis liberum accipere nobis mereamur in regem et dominum. et quamdiu haec facimus, non convertentur dies festi nostri in luctum, neque cantica nostra in lamentationem, sed erunt in nobis sollemnitates verae, sollemnitates dei.
+
+== Comm. ser. 121 ==
+121. *Habebant autem tunc vinctum insignem, qui dicebatur Barabbas. congregatis ergo eis dixit eis Pilatus: quem vultis dimittam vobis, Iesum Barabbam, aut Iesum qui dicitur Christus? sciebat enim quod per invidiam tradiderunt eum* (27, 16—18).
+
+In multis exemplaribus non continetur quod *Barabbas* etiam *Iesus* dicebatur, et forsitan recte, ut ne nomen Iesu conveniat alicui iniquorum.
+
+[GCS p.256]
+
+In tanta enim multitudine scripturarum neminem scimus Iesum peccatorem, sicut in aliis nominibus invenimus iustorum ut eiusdem nominis inveniantur esse etiam iniqui, utputa Iudas apostolus zelotes et Iudas patriarcha item et Machabaeus Iudas omnes laudabiles, sed et Iudas proditor; et in Genesi inveniuntur eiusdem nominis esse filii Seth et filii Cain, sicut Enoch et Lamech et Mathusalem. non autem conveniebat esse tale aliquid et in nomine Iesu. et puto, quod in haeresibus tale aliquid superadditum est, ut habeant aliqua convenientia dicere fabulis suis de similitudine nominis Iesu et Barabbae. aestimo enim in istis rerum aliquod mysterium demonstrari, ut Barabbas quidem constitutus sit ad seditionem et bella et homicidia facienda in animabus hominum, Iesus autem quasi filius dei et pax constitutus et verbum et sapientia ad omnia bona. hi ergo duo cum sint vincti in rebus humanis et corporibus, populus ille sibi postulavit absolvi Barabbam; propter quem non cessat gens illa habens seditiones et homicidia et latrocinia, secundum quosdam gentis suae in rebus quae foris habentur, secundum omnes autem Iudaeos qui non credunt in Iesum intus in anima. ubi enim non est Iesus, illic seditiones et lites et proelia sunt; ubi autem est Iesus, ut dicere possint: *»si autem Christus in nobis, corpus quidem mortuum propter peccatum, spiritus autem vita propter iustitiam«*, ibi sunt omnia simul bona et innumerabiles divitiae spiritales in manibus eius, et pax; *»ipse est enim pax nostra, qui fecit utraque unum«*. et si quis videat contrariam illam operationem, cognoscet quoniam ipse est in hominibus vinctus insignis Barabbas, quem sibi solvi desiderant, non solum tunc peccans Israel secundum carnem, sed et omnes qui ei similes sunt vel in dogmate vel in vita. quicumque ergo mala agit, solutus est in corpore eius Barabbas,
+
+[GCS p.257]
+
+Christus autem vinctus: qui autem bona agit, Christus ei solutus est, Barabbas autem vinctus.
+
+== Comm. ser. 122 ==
+*Sedente autem eo pro tribunali misit ad eum uxor eius dicens: nihil sit tibi et iusto illi; multa enim passa sum hodie per visum propter eum* (27, 19).
+
+Et Iesus quidem per invidiam traditus erat, et ita per invidiam manifestam, ut etiam Pilatus eam non ignoraret. voluit autem evangelista non praeterire rem divinae providentiae laudem dei continentem, qui voluit per visum convertere Pilati uxorem, ut quantum ad se vetaret virum suum, ut ne audeat contra Iesum proferre sententiam. et visum quidem non exposuit Matthaeus, tantum autem dixit quia *multa passa* erat *per visum propter* Iesum, et ideo *per visum passa* est, ut ne amplius pateretur. ut beatam dicamus fuisse Pilati uxorem, quae *per visum passa est multa propter* Iesum, et recepit *per visum* quod erat passura.
+
+ex quo audebit quis dicere, quoniam melius est recipere aliquem mala in visu quam recipere in vita. quis enim non eligat *per visum* mala sua recipere ⟨quam recipere⟩ in vita sua (nisi forte talia mereatur ut expediat ei acriora recipere in vita sua potius quam recipere leviora in visu)? consolatur enim et requiescit »in sinibus Abrahae« qui recepit mala in vita sua (et non haec mala quae recepit in visu suo), secundum quod et consolationem habebit. utrum autem et initium habeat conversionis
+
+[GCS p.258]
+
+ad deum ex eo quod *multa propter* Iesum fuerat *passa per visum*, deus scit; tamen continetur etiam hoc in quibusdam scripturis non publicis.
+
+et vide (quia *iustum* appellavit Iesum uxor Pilati) ne forte mysterium sit haec uxor Pilati ecclesiae ex gentibus, quae aliquando quidem regebatur a Pilato, nunc autem iam non est sub eo propter fidem suam in Christo.
+
+== Comm. ser. 123 ==
+123. *Principes autem sacerdotum et seniores persuaserunt populo, ut peterent Barabbam. Iesum vero perderent. respondens autem praeses dixit illis: quem vultis de duobus dimittam vobis? at illi dixerunt: Barabbam* (27, 20—21).
+
+Et est videre usque nunc quomodo populus Iudaeorum a senioribus suis et Iudaicae culturae doctoribus suadetur et excitatur adversus *Iesum*, ut perdant eum (quantum ad se) et habeant *Barabbam* solutum; credunt enim turbae principibus et sacerdotibus suis. plerumque et *praeses* quidem dixit ad populum: *quem vultis ex duobus dimittam vobis?*, turbae autem, quasi verae turbae et multae, quae »spatiosam et [PG 919] perducentem ad perditionem« ambulant »viam«. petierunt *Barabbam* solvi, volentes eum sibi habere solutum.
+
+== Comm. ser. 124 ==
+124. *Dicit illis Pilatus: quid ergo faciam Iesum qui dicitur Christus? dicunt omnes: crucifigatur*, et cetera (27, 22—26).
+
+Volens eis pudorem tantae iniquitatis incutere *Pilatus dicit* eis: *quid ergo faciam Iesum qui dicitur Christus*, non solum autem sed et mensuram colligere volens impietatis eorum. illi autem, nec hoc erubescentes quod Pilatus Iesum *Christum* esse confitebatur nec modum impietatis servantes, dixerunt *omnes: crucifigatur*. et si quidem
+
+[GCS p.259]
+
+Barabbam petissent dimittere, non autem econtra et Christum postulassent ad crucem, utputa Barabbam quidem petissent absolvi, hunc autem non petissent crucifigi sed in potestate dimisissent Pilati, ut faceret de eo quod vellet, adhuc magnae esset impietatis, quod relicto iusto homicidam petissent. nunc autem multiplicaverunt impietatis suae mensuram, non solum homicidam postulantes ad vitam, sed etiam iustum ad mortem et ad mortem turpissimam crucis. adhuc autem permanens in eo ipso, quod confundere eos volebat, ut vel confusi ad electionem iusti venirent (etsi non ex iudicio cordis), dicit eis: *quid enim mali fecit?* contra hoc nihil habentes quod responderent, *amplius clamaverunt* non deponentes sed augentes iram, animositatem, blasphemiam *et dixerunt*: *crucifigatur.*
+
+*Pilatus autem, videns quod nihil proficeret,* Iudaico usus est more, volens eos de Christi innocentia non solum verbis, sed etiam ipso facto placare si voluerint, si autem noluerint condemnare, faciens non secundum aliquam consuetudinem Romanorum; *accepit* enim *aquam in conspectu* omnium, *et lavans manus suas dixit*: *innocens ego sum a sanguine ⟨iusti⟩ huius*; *vos videritis.* et ipse quidem se lavit, illi autem non solum se mundare noluerunt a sanguine Christi, sed etiam super se susceperunt dicentes: *sanguis eius super nos, et super filios nostros.* propter hoc rei facti sunt non solum in sanguine prophetarum, sed inplentes mensuram patrum suorum facti sunt rei etiam in sanguine Christi, ut audiant deum sibi dicentem: *cum expanderitis manus vestras ad me, avertam oculos meos a vobis*;
+
+[GCS p.260]
+
+manus enim vestrae sanguine plenae sunt«. propterea sanguis Iesu non solum super eos factus est, qui tunc fuerunt, verum etiam super omnes generationes Iudaeorum post sequentes usque ad consummationem. propterea usque nunc domus eorum derelicta est eis deserta. Pilatus autem oblitus verborum suorum bonorum, quibus coeperat defendere innocentiam Christi, declinans ad malum non solum *tradidit Iesum*, sed etiam *flagellis caesum tradidit, ut crucifigerent eum*.
+
+== Comm. ser. 125 ==
+*Tunc milites praesidis susceperunt Iesum in praetorium et congregaverunt ad eum totam cohortem, et induerunt eum chlamydem coccineam et purpuram circumdederunt ei, et coronam de spinis posuerunt super caput eius et arundinem in dextera eius, et adgeniculantes se deludebant eum dicentes: ave, rex Iudaeorum* (27, 27—29).
+
+Verisimile est, ut (in primordiis tunc noviter erecti imperii Romani) milites nondum disciplinae ordinem conservantes decentem, extra consuetudinem disciplinae quae nunc est, facerent in salvatorem, quando accipientes eum *in praetorium congregaverunt totam cohortem* et fecerunt quae fecisse dicuntur, lusum sibi Iesum facientes, propter quod nominatus fuerat *rex Iudaeorum*. ego autem puto milites hoc fecisse, operantibus in se invisibilibus regibus et principibus saeculi huius, qui »adstiterunt et convenerunt in unum adversus dominum et adversus Christum eius«, ut videatur illa delusio eorum
+
+[GCS p.261]
+
+potius fuisse quam hominum — eorum autem qui non cognoverunt in illa dispensatione sapientiam dei, »si enim cognovissent, numquam dominum maiestatis crucifixissent«. ergo cohors illa mysterium erat militiae alicuius malignae.
+
+*Et expoliaverunt eum vestimenta eius*, quae desursum habebat, tunicam inconsutilem et stolam (haec enim vestimenta eius talia describit Iohannes), *et induerunt eum* (deludentes propter nomen eius regale) *coccineam chlamydem* non intellegentes quod agunt:
+
+illa enim coccinea chlamys mysterium erat coccinei signi quod scriptum est in Iesu Nave, quod ad salutem suam habuit illa Raab, et in Genesi, quod factum est in uno filiorum Thamar ad manum nascentis, ut coccum alligaretur in signo futurae passionis Christi. ergo et nunc suscipiens dominus *coccineam chlamydem* in se sanguinem mundi suscepit,
+
+et in spinea illa *corona* suscepit spinas peccatorum nostrorum intextas in capite suo.
+
+et de chlamyde scriptum est quoniam denuo *spoliaverunt eum chlamydem coccineam*, de corona autem spinea nihil tale evangelistae scripserunt, propter quod nos quaerere voluerunt exitum rei de corona spinea semel inposita et numquam detracta. ego igitur arbitror quoniam spinea illa corona consumpta est a capite Iesu, ut iam non sint spinae nostrae antiquae,
+
+[GCS p.262]
+
+postquam semel eas a nobis abstulit Iesus super venerabile caput suum.
+
+Si autem et de calamo quem posuerunt *in dextera eius*, aliquid dicere convenit, huiusmodi dicimus rationem. *calamus* ergo ille mysterium fuit sceptri vani et fragilis, super quem incumbebamus omnes priusquam crederemus, sceptrum malignum; confidebamus enim in virga calamina Aegypti vel Babylonis vel cuiuscumque regni contrarii contra regnum dei.
+
+et accepit *calamum* illum et virgam fragilis regni de manibus nostris, ut triumphet eum et conterat in ligno crucis. et pro calamo illo priori, super quem prius recumbebamus, dedit nobis sceptrum regni caelestis [PG 920]
+
+et virgam de qua scriptum est: »*virga aequitatis virga regni tui*«; vel virgam, quae corripiat eos qui opus habent correptione, de qua dicit apostolus: »*quid vultis? in virga veniam ad vos?*« dedit nobis et baculum, ut celebremus pascha secundum quod scriptum est: »*baculi vestri in manibus vestris sint*«, ut celebremus pascha deponentes virgam calami eam, quam habebamus priusquam celebraremus domini pascha. percutiunt autem cum hoc fragili et vano calamo *caput* Iesu venerabile, quoniam et semper regnum illud contrarium conviciat et verberat deum patrem. *caput* domini salvatoris. et in his omnibus unigenita virtus nocita non est, sicut nec passa est aliquid, facta »*pro nobis maledictum*«, cum naturaliter benedictio esset; sed cum benedictio esset, consumpsit et solvit et dissipavit omnem maledictionem humanam.
+
+== Comm. ser. 126 ==
+126. *Exeuntes autem invenerunt hominem Cyrenaeum nomine Simonem; hunc angariaverunt ut tolleret crucem eius* (27, 32. 33).
+
+Sicut enim secundum tres evangelistas temptatur a diabolo Iesus, secundum Iohannem autem (qui spiritalis naturae eius fecit sermonem)
+
+[GCS p.263]
+
+non temptatur — nec enim temptatur »veritas et vita« et »resurrectio« et »lumen verum«, sed temptabatur secundum hominem quem susceperat unigenitus deus — sic
+
+secundum Iohannem quidem salvator, inponentibus eis qui susceperunt eum, »crucem suam portans egressus est in locum qui dicitur Calvariae locus«, secundum reliquos autem sibi eam non portat.
+
+*exeuntes* enim qui »ducebant eum ad crucifigendum«, *invenerunt quendam Cyrenaeum, nomine Simonem,* quem *angariaverunt ut acciperet crucem* Christi. non autem solum salvatorem conveniebat accipere crucem suam, sed et nos conveniebat eam portare, salutarem nobis angariam adinplentes. nec iterum autem sic prodificandi fueramus crucem eius accipientes, quantum modo prodificamur a cruce eius, cum et ipse sibi accipiat eam et portet.
+
+quaeres autem si secundum textum utrumque est factum et non dissonant sibi evangelistae ab invicem, et quid eorum prius est factum:
+
+utrum enim qui susceperunt Iesum ad crucifigendum et inponentes ei crucem, ut »portans eam« exeat *in locum Calvariae*, hoc primum fecerunt, antequam angariarent Simonem Cyrenaeum — aut *egressi* quidem angariaverunt Simonem, facti autem ad locum in quo eum fuerant suspensuri,
+
+[GCS p.264]
+
+posuerunt crucem ei ipsi, ut ipse eam portaret. et qui potest discutere, quaerat discutiens in utroque, ut inveniat utrum finem portandae crucis accepit, aut magis Cyrenaeus Simon, non fortuito angariatus, sed secundum aliquam de eo praescientiam dei, secundum dispositionem dei ductus ad hoc, ut evangelica scriptura dignus inveniretur et ministerio crucis Christi, in qua »mundus crucifigitur« sanctis »et« sancti »mundo«.
+
+Quidam autem et moraliter exponere voluerunt hunc ipsum *Simonem Cyrenaeum*, ex eo quod de Pentapoli esset Cyrenes secundum Libyam, accipientes occasionem de sensibus quinque ut dicant, quasi quinque sensus portaverint dispensationis illius crucem. Simon autem interpretatur OBOEDIENTIA: cui autem magis conveniebat, ut crucem Christi portaret, nisi oboedientiae aut (sicut secundus Liae filius vocabatur) Simeon? dupliciter enim apud Graecos nominatur et patriarcha et Petrus (secundum proprietatem Hebraici sermonis), ut conveniat ei qui ita vocatur, ut et Simon dicatur et Simeon, quoniam ⟨iisdem⟩ ipsis litteris scribunt Hebraei et Simeonis nomen et Simonis. *locus* autem *Calvariae* dicitur non qualemcumque dispensationem habere, ut illic, qui pro hominibus moriturus fuerat, moreretur.
+
+[GCS p.265]
+
+venit enim ad me traditio quaedam talis, quoniam corpus Adae primi hominis ibi sepultum est ubi crucifixus est Christus, ut »sicut in Adam omnes moriuntur sic in Christo omnes vivificentur«; ut in loco illo, *qui dicitur Calvariae locus, id est locus capitis*, caput humani generis resurrectionem inveniat cum populo universo per resurrectionem domini salvatoris, qui ibi passus est et resurrexit. inconveniens enim erat, ut cum multi ex eo nati remissionem acciperent peccatorum et beneficium resurrectionis consequerentur, non magis ipse pater omnium hominum huiusmodi gratiam consequeretur.
+
+== Comm. ser. 127 ==
+*Et dederunt ei acetum bibere felle mixtum; et cum gustasset, noluit bibere* (27, 34).
+
+Sufficiebat enim nobis ut tantum gustaret pro nobis, sicut mortem tridui temporis non longiorem, sic et *acetum felle permixtum*. aliud autem vinum, non *mixtum* cum *felle* nec cum alio aliquo contrario accepit et bibit et »gratias agens« discipulis dedit et promisit se bibiturum »novum eum in regno« dei.
+
+== Comm. ser. 128 ==
+*Postquam autem crucifixerunt eum, diviserunt sibi vestimenta eius sortem mittentes, et sedentes servabant eum* (27, 35. 36).
+
+Et sunt usque nunc, qui ipsum quidem non habentes, *vestimenta* autem, verba in scripturis posita, habent, nec ipsa ad plenum sed ex parte, nihilominus hoc ipsum propheta dicente mysterium quod nunc est inpletum. utrum autem conscissum est aliquod vestimentorum eius in illa partitione aut mansit unumquodque eorum integrum [PG 921]
+
+[GCS p.266]
+
+sicut fuit, et qualia illa vestimenta fuerunt, non legimus apud tres evangelistas; apud Iohannem autem discimus quoniam »milites postquam crucifixerunt Christum, acceperunt vestimenta eius et fecerunt quattuor partes, unicuique militi partem, tunicam autem, quoniam erat non consutilis sed a sursum textilis per totum, dixerunt ad invicem: non conscindamus eam, sed sortiamur de ea«. non ergo omnes acceperunt eam, sed qui sortitus est. disputans autem aliquis de differentia eorum, qui *vestimenta* domini habent, inveniet sine dubio qui in dogmatibus suis etsi non habent ipsum, »tunicam« tamen desursum textilem »per totum« habent, alii autem nec ipsam sed aliquam particulam vestimenti eius.
+
+et hoc considera quoniam secundum Matthaeum quidem Iesus accipiens »acetum cum felle permixtum« gustavit et »noluit bibere«, secundum Marcum autem cum daretur »ei myrrhatum vinum«, »non accepit«.
+
+== Comm. ser. 129 ==
+**129.** *Et sedentes servabant eum ibi.* et milites quidem *servabant* corpus submissi a principibus sacerdotum, quasi furandum a discipulis eius si non servaretur; dispensatio autem resuscitavit eum et testes resurrectionis eius esse fecit non duos tantum aut tres, sed multo plures. »visus est« enim »Cephae, postea illis undecim, deinde apparuit amplius quam quingentis fratribus simul«, »novissime autem omnium« Paulo. et non erat modicum signum resurrectionis eius, quod a tantis est visus, his qui susceperunt periculum, ut praedicent eum viventem in populis qui petierant eum ad crucem. et nunc novi principes sacerdotum (videlicet filii principum illorum) verbum veritatis positum in scripturis crucifigunt falsis expositionibus suis et occidunt mendaciis; verbum autem veritatis,
+
+[GCS p.267]
+
+quia apud illos quidem occiditur vivit autem in sua natura, semper invenit et eligit sibi vasa, in quibus resurgat et vivat et adhuc confundat suos interfectores, multis testimoniis vivere demonstratum.
+
+== Comm. ser. 130 ==
+*Et inposuerunt super caput eius causam eius scriptam: hic est Iesus, rex Iudaeorum* (27, 37).
+
+»Sive occasione sive veritate Christus pronuntiatur« et omnis littera regnum eius testatur, sive Graecorum sive Romanorum sive Hebraicorum, et pro corona *super caput eius* sit scriptum: *hic est Iesus, rex Iudaeorum,* et eum nulla inveniatur causa alia mortis eius (nec enim erat), haec habeatur sola quia *rex* fuit *Iudaeorum,* de qua et locutus est dicens: »ego autem constitutus sum rex ab eo super Sion montem sanctum eius«, et princeps quidem sacerdotum secundum litteram legis portabat in capite suo formam signi »sanctificationem domini« scriptam in petalo, verus autem princeps sacerdotum et rex Iesus in cruce quidem habet scriptum: *hic est rex Iudaeorum,* ascendens autem ad patrem et suscipiens patrem in se pro litteris et pro nomine habet, qui nominatur, et habet eum coronam et dignus eo effectus et domus dei patris digna effectus, solus sufficienter patrem capere potest.
+
+== Comm. ser. 131 ==
+*Tunc crucifixerunt cum eo duos latrones, unum a dextris et unum a sinistris* (27, 38).
+
+Crucifixus inter latrones dominus sicut ipsi latrones inplevit prophetiam dicentem de se: »et cum iniquis deputatus est«. et est videre discipulos eius, testimonium dantes culturae dei quae per eum est introducta, »cum iniquis« reputari et crucifigi cum eis aut passiones reliquas sustinere, sicut et illi. mundus enim et spiritus qui in eo est, summos semper persequitur viros et punit malitiae quidem summos propter utilitatem multorum, summos autem virtutis, quoniam non est dignus mundus iste eis qui non considerant »quae
+
+[GCS p.268]
+
+videntur«, sed »quae non videntur« et contemnunt eum, sicut et olim sancti ambulantes »in melotis et in pellibus caprinis, egentes, afflicti, in desertis errantes, in montibus, et in speluncis et in foveis terrae, quorum non erat dignus mundus«.
+
+== Comm. ser. 132 ==
+*Transeuntes autem blasphemabant eum moventes capita sua et dicentes: vah qui destruebas templum et in triduo reaedificabas; libera teipsum, si filius dei es, descende de cruce. similiter et principes sacerdotum deludentes eum cum scribis et senioribus et Pharisaeis dicebant: alios salvos fecit, seipsum salvum non potest facere; si ipse est rex Israel, descendat nunc de cruce et credimus illi. confidit in deum, liberabit nunc eum si vult eum; dixit enim, quia filius dei sum* (27, 39—43).
+
+Nemo stans Iesum blasphemat neque recte incedens; *transeuntes* enim *blasphemabant eum* [vel, sicut in Graeco habet, *praetereuntes*], qui etiam macerie vineae dissoluta a deo vindemiant eos, qui remanserunt; scriptum est enim: »ut quid deposuisti maceriem eius, et vindemiant eam omnes qui praeteriunt viam?« quamdiu ergo quis non praeterivit viam neque declinavit a via, aut stans dicere potest deo: statuisti »supra petram pedes meos«, non blasphemat Iesum; si autem ceciderit aut praeterierit vel transierit vel declinaverit, tunc eum blasphemat. sicut adhuc, qui in mala opera ceciderunt, et sicut qui dereliquerunt »terminos aeternos« et viam ecclesiae caelestis, et fluctuantur et circumferuntur »ab omni vento doctrinae in fallacia hominum, in astutia ad remedium erroris«. omnes enim haereses *praetereuntes* et declinantes esse si quis dixerit, non peccabit, propter quod et ipsi inter *praetereuntes* habentur et blasphemant Iesum, non habentes caput firmum, sed *moventes* eum sursum et deorsum, quoniam non sunt prudentes nec habent oculos suos in capite suo, in quo habere debuerant Ecclesiaste dicente: »sapientis oculi in capite eius sunt«. praetereuntium ergo et declinantium opus est Iesum blas- [PG 922]
+
+[GCS p.269]
+
+phemare filium dei, quia »nemo in spiritu dei loquens dicit: anathema Iesu«.
+
+Diversi autem blasphemantium sermones habentur, quorum unum blasphemium est quod dicitur ab eis, qui non intellegunt nec audiunt quae dicuntur nec de quibus adfirmant: Iesus enim dixit: »solvite templum hoc, et ego in triduo suscitabo eum«, *praetereuntes autem* quasi »falsi testes« contra Iesum dicebant quod non erat dictum de eo, adpetentes eum: *vah qui destruit templum dei, et in triduo reaedificat eum.* non enim ipse destruit templum, sed quod alii destruunt ipse aedificat; sive »templum proprium corporis«, quod a Iudaeis fuerat traditum morti, sive templum testium suorum et omnium qui habuerunt verbum dei in se et ex insidiis impiorum propter pietatem mortui sunt (»venit« enim »hora, quando omnes, qui in monumentis sunt, audient vocem filii dei et resurgent«). et non solum in eo quod dicebant: *qui destruit templum,* mentiti sunt, sed etiam illud quod dixerunt: »et ego in triduo reaedificabo eum«. nec enim dixit reaedificaturum se templum, sed *suscitaturum*; sermo enim aedificationis non ostendit subitaneum opus, suscitationis autem ostendit.
+
+Et qui quidem deridebant, dicebant *salva teipsum*, ipse autem (accipiens virtutem a patre) et hoc fecit et amplius: cunctis enim capientibus verbum suum salutem suam ostendit. et illi quidem deridentes dicebant: *si filius dei es, descende de cruce*, ipse autem filium dei se deridentibus quidem non ostendebat, ostendit autem credentibus sibi, postquam dispensavit quae oportebat eum dispensare in tribus illis diebus, postquam descendens ad inferos »mortificatus corpore vivificatus autem in spiritu, spiritibus qui erant in carcere praedicavit, qui non crediderant aliquando, quando expectabatur patientia dei in diebus Noe cum fabricaretur arca, in qua pauci, id est octo animae, sunt salvati per aquam«. et non est derelictus illic (sicut ipse dicebat: »quoniam non derelinques animam meam in
+
+[GCS p.270]
+
+inferno«), oportebat autem eum et ascendere ad proprium patrem et deum, ut »ascendens in altum« captivet captivitatem et accipiat »dona in homines«, et post haec ostendat se fortiorem morte dicens ad eam: »ubi est, mors, aculeus tuus?«
+
+*Similiter autem* (ceteris praetereuntibus et blasphemantibus eum) *principes quoque sacerdotum et scribae* praetereuntes et ipsi *dicebant* ad eum, victi virtutibus ante gestis ab eo: *alios salvos fecit, seipsum salvum facere non potest* (videlicet non credentes quoniam qui *alios* salvare potuit, multo amplius poterat et *seipsum* salvare) et promittebant se credituros *in eum* quasi in regem *Israel*, si descendens *a cruce* videretur ab eis. ipse autem non curabat indignum aliquid agere propter derisionis iniuriam et facere, quod dicebatur ab eis extra rationem et ordinem.
+
+== Comm. ser. 133 ==
+133. *Idipsum autem et latrones, qui crucifixi erant cum eo, inproperabant ei* (27, 44).
+
+Et apud Iohannem sicut potuimus exposuimus de duobus latronibus, qui fuerunt crucifixi cum Christo, qui secundum Matthaeum quidem et Marcum inproperaverunt ei ambo in cruce, secundum Lucam autem dicentem quoniam »unus de pendentibus latronibus blasphemabat eum dicens: tu es Christus; salva teipsum et nos. respondens autem alter increpabat eum
+
+dicens: non times tu deum, quod in eadem damnatione es? et nos quidem iuste, nam condigna factis recipimus; iste autem nihil mali
+
+[GCS p.271]
+
+fecit. et dicebat ad Iesum: memor esto mei cum veneris in regnum tuum. respondens autem Iesus dixit ad eum, qui increpaverat blasphemantem: »amen dico tibi: hodie mecum eris in paradiso«.
+
+Conveniens ergo est, ut in primis quidem ambo latrones intellegantur dominum blasphemasse, post hoc autem unum ex eis conversum esse et credidisse tractantem apud seipsum et de his miraculis, quae audiebat facta ab eo, forsitan autem et videns conversionem aëris et tenebras fieri insolitas, et non sicut fieri frequenter solebant.
+
+aut ne forte, sicut et illic diximus, alii sunt hi duo latrones, ex quibus unus blasphemabat eum alius autem increpabat blasphemantem, et alii fuerunt illi duo latrones, qui ambo blasphemaverunt.
+
+sed ille latro, qui salvatus est, potest esse mysterium eorum, qui post multas iniquitates crediderunt in Christum et dixerunt: Christo confixi sumus et configurati in morte Christi, et semper dicunt filio dei: »memor esto« nostri »cum veneris in regnum tuum et ideo in paradiso« sunt cum ipso.
+
+== Comm. ser. 134 ==
+*A sexta autem hora tenebrae factae sunt super universam terram usque ad horam nonam* (27, 45).
+
+[GCS p.272]
+
+Ab hoc textu quidam calumniantur evangelicam veritatem, dicentes: quomodo secundum textum potest esse verum quod dicitur, quia *factae sunt tenebrae super omnem terram a sexta hora usque ad nonam*, quod factum nulla refert historia? et dicunt quia, sicut solet fieri in solis defectione, sic facta est tunc defectio solis.
+
+defectio autem solis a saeculo semper fuit in suo tempore facta. sed defectio solis quae secundum consuetudinem temporum ita currentium fieri solet, non in alio tempore fit nisi in conventu solis et lunae, quando luna subtus currens solis inpedit radios occurrens ei, et occursu suo lumen eius obtundit. in tempore autem, quo passus est Christus, manifestum est quoniam conventus non erat lunae ad solem, quoniam tempus erat paschale, quod consuetudinis est agere, quando luna solis plenitudinem habet et in tota est nocte.
+
+quomodo ergo poterat fieri defectio solis, cum luna esset plena et plenitudinem solis haberet?
+
+Quidam autem credentium volentes defensionem aliquam introducere contra haec, angustati sermonibus profitentium talia, ita dixerunt: si nullum [PG 923] prodigium novum factum fuisset in tempore passionis Christi sed omnia secundum consuetudinem, crederetur secundum consuetudinem facta fuisse illa defectio solis; nunc autem cum constet cetera prodigia, quae tunc facta sunt, non secundum consuetudinem facta fuisse, sed nova et miranda (nam et »velum templi scissum est
+
+[GCS p.273]
+
+in duas partes a sursum usque deorsum, et terra contremuit, et petrae disruptae sunt, et monumenta aperta sunt et multa corpora dormientium sanctorum resurrexerunt«), manifestum est quoniam et illa defectio solis consequenter secundum cetera prodigia nova contra consuetudinem facta est. item adversus haec »filii saeculi huius« qui »prudentiores sunt filiis lucis in sua generatione«, talia dicunt: pone quia extra consuetudinem facta est illa defectio solis in tempore non antiqua sub principatu Romanorum, ita ut tenebrae fierent *super omnem terram usque ad horam nonam* — quomodo hoc factum tam mirabile nemo Graecorum, nemo barbarorum factum conscripsit tempore illo, maxime qui chronica conscripserunt et notaverunt, sicubi tale aliquid novum factum est aliquando, sed soli hoc scripserunt vestri auctores? et Phlegon quidam in Chronicis suis scripsit in principatu Tiberii Caesaris factum,
+
+sed non significavit in luna plena hoc factum.
+
+Vide ergo nisi fortis est obiectio haec et potens movere omnem hominem sapientem (qui nec illis dicentibus nec istis scribentibus consentit, sed omnia cum ratione et iudicio audit), et non est quidem durum … et unusquisque fidelium (qui credit quidem, non tamen cum ratione et cum iudicio credit), ut ita sit constans in fide, ut etsi mille crimina obiciant contra evangelicam fidem volentes destruere fidem nostram, ut in nulla parte eorum commoveatur sermonibus, qui (fingentes se credere scripturis evangelicis) per occasionem unius aut alterius quaestionis aut difficilis aut forte et indissolubilis adversantes scripturis festinant fidem Christi et evangeliorum eius tollere de anima nostra, introducentes quasdam morales res et mirabilia dei virtute consummata ad saeculares quasdam consuetudines transferre volentes. iudicavi igitur bonum, ut accipiens bonum propositum eorum, qui in fide constantes esse desiderant, solutiones criminationum eorum (in
+
+[GCS p.274]
+
+quantum mihi ex deo est virtus) inveniam pro evangelii veritate, ut fideles non solum fide simplici, sed etiam ratione fidei muniantur in fide.
+
+dicimus ergo, quoniam Matthaeus et Marcus non dixerunt defectionem solis tunc factam fuisse, sed neque Lucas.
+
+secundum pleraque exemplaria habentia sic: »et erat hora fere sexta et tenebrae factae sunt super omnem terram usque ad horam nonam, et obscuratus est sol«. in quibusdam autem exemplariis non habetur: »tenebrae factae sunt et obscuratus est sol«; sed ita: »tenebrae factae sunt super omnem terram sole deficiente«. et forsitan ausus est aliquis (quasi manifestius aliquid dicere volens) pro: »et obscuratus est sol«, ponere: »deficiente sole«, aestimans quod non aliter potuissent fieri tenebrae nisi »sole deficiente«.
+
+Puto autem magis, quoniam insidiatores ecclesiae Christi mutaverunt hoc verbum, quoniam »tenebrae factae sunt sole deficiente«, ut verisimiliter evangelia argui possint secundum adinventiones volentium arguere ea. arbitror ergo, sicut cetera signa quae facta sunt in passione ipsius, in Hierusalem tantummodo facta sunt, sic et *tenebrae* tantummodo *super omnem terram* Iudaeam *sunt factae usque ad horam nonam.* quae autem dico in Hierusalem tantummodo facta, haec sunt: quod »velum templi scissum est«. quod »terra contremuit«, quod »petrae disruptae sunt«, quod
+
+[GCS p.275]
+
+monumenta aperta sunt«. nec enim extra Iudaeam »petrae disruptae sunt«, aut »monumenta aperta sunt« alia nisi ea tantum, quae in Hierusalem erant aut forte in terra Iudaea,
+
+nec alia »terra tremuit« tunc nisi terra Hierusalem — nec enim refertur alicubi, quod omne elementum terrae tremuerit in tempore illo, ut sentirent (verbi gratia) et qui in Aethiopia erant et in India et in Scythia (quod si factum fuisset, sine dubio inveniretur in historiis aliquibus eorum, qui in chronicis conscripserunt nova aliqua facta). sicut ergo, quod dicitur »terra contremuit«, hic refertur ad terram Hierusalem aut (si latius voluerit quis extendere) ad terram Iudaeam, sic et *tenebrae factae ab hora sexta usque ad nonam super omnem terram* Iudaeam sunt factae aut certe super Hierusalem tantum. sic ergo qui intellegit, sine culpa intellegit, ut non magnitudinem miraculi ostendere volens incidat in risum sapientium »saeculi huius«, et magis infidelitatem in hominibus sapientibus operetur quam fidem.
+
+Dicit autem aliquis contra haec: si non ex defectione solis factae fuerunt *tenebrae* tunc *super omnem terram* Iudaeam et Hierusalem sed ex altera causa, ostende causam. cui talia respondemus: primum quidem, quod omnino evangelistae nec nominaverunt solem in isto loco, sed tantum quia *tenebrae factae sunt super omnem terram.* si ergo *tenebrae factae sunt super omnem terram* sole non nominato, sine dubio consequens est intellegere quasdam tenebrosissimas nubes, et forte non unam sed multas et maiores, concurrisse *super terram* Iudaeam et Hierusalem ad cooperiendos radios solis,
+
+et ideo profundae *factae sunt tenebrae a sexta hora usque ad nonam.*
+
+[GCS p.276]
+
+quoniam autem facti sumus in tali loco, dicimus, ne forte et »tenebrae palpabiles« in Aegyptum hoc modo factae fuerunt »tribus diebus«, non ex solis defectione, sive autem ex eo quod nubes tenebrosae concurrerunt in unum, [PG 924] sive quod aër illic tunc spissior factus est super Aegyptios tantum — »omnibus« enim »filiis Israel«, sicut testatur scriptura, »fuerat lumen ⟨in omnibus locis⟩, in quibus fuerant commorati«.
+
+nam et inpossibile est in solis defectione, quae fit ex concursu lunae ad solem, »tribus diebus« continuis fieri tenebras; et crederetur aliqua alia tenebrarum causa fuisse in Aegypto, si vel nominatus fuisset sol, sive quasi obscuratus in tempore illo. nunc autem scriptura Exodi nihil aliud dicit nisi quia »Moyses extendit manum suam in caelum, et factae sunt tenebrae et caligo et cetera super omnem terram Aegypti tribus diebus; et nemo vidit fratrem suum, neque surrexit aliquis de lecto suo tribus diebus«.
+
+Quod autem dico *super omnem terram* Iudaeam vel Hierusalem, ut non omne elementum terrae intellegamus, illud est argumentum, quod scriptum est in tertio libro Regnorum, ubi Abdias dispensator Achab dixit Eliae: »quid peccavi, quia dedisti servum tuum in manus Achab, ut mortificet me? vivit deus tuus, si est gens aut regnum ubi non misit dominus meus quaerere te, et dixi: non est, et conbussit regnum et regiones eius, quoniam non invenit te«. quis enim tam lapideus sit legens ista, ut aestimet quoniam rex Israel Achab in omnem gentem mundi et in omne regnum orbis terrae misit quaerens Eliam, et conbussit ubicumque dictum est: non est Elias? sed sine dubio exaggeratorie dicta sunt illa, ostendentia quoniam satis eum quaesivit in gentibus quae fuerunt circa Iudaeam, secundum quod potuit requirere. diximus autem etiam in aliis locis quoniam, cum duae creaturae generales in sexta die factae fuissent, primum quidem animalia, deinde autem
+
+[GCS p.277]
+
+homo »secundum dei imaginem« factus, consequens est, ut et dies ille sextus tunc divisus fuisse intellegatur in duas species creaturae, ut ante sextam quidem animalia intellegantur fuisse creata, in sexta autem hora dixisse dominum: »faciamus hominem ad imaginem nostram« et fecisse eum tunc. … propter quod conveniebat pro salute eiusdem hominis morientem in ipsa hora sexta suspendi, ac *a sexta hora*
+
+propter hoc tenebras fuisse factas *super omnem terram usque ad nonam.* et sicut Moyse manus extendente »in caelum« »factae sunt tenebrae super Aegyptios«, servos dei tenentes in servitutem, imago futurarum tenebrarum quae conprehensurae fuerant Aegyptios, similiter et Christo in sexta hora manus extendente in cruce ad caelum super populum qui clamaverat: »tolle de terra hunc«, et »crucifige, crucifige eum«, factae sunt tenebrae, et ab omni lumine sunt privati.
+
+Et imago fuit tenebra illa futurarum quae conprehensurae fuerant gentem Iudaeam, quia ausi sunt lumini vero manus suas inferre.
+
+unde ex tunc omnis illa gens tenebris est repleta, sicut dicit propheta: »obscurentur oculi eorum ne videant«.
+
+item sub Moyse »factae sunt tenebrae et caligo super omnem terram Aegypti tribus diebus; et nemo vidit fratrem suum, neque surrexit aliquis de lecto suo tribus diebus; omnibus autem filiis
+
+[GCS p.278]
+
+Israel erat lumen in omnibus locis, in quibus commorabantur«. sub Christo autem *tenebrae factae sunt super omnem terram* Iudaeam tribus horis, lumen autem fuit super omnem reliquam terram. quod ubique inluminat omnem ecclesiam dei in Christo.
+
+et si *usque ad nonam horam tenebrae fuerunt super omnem terram* Iudaeam, manifestum est quoniam iterum lumen eis refulsit, quia »cum multitudo gentium intraverit, tunc omnis Israel salvus futurus est«. quod autem tribus horis *factae sunt tenebrae super omnem terram* Iudaeam, illud ostendit quoniam propter peccata sua privati sunt a lumine trium horarum. a lumine dei patris et a splendore Christi et ab inluminatione spiritus sancti.
+
+== Comm. ser. 135 ==
+*Circa nonam autem horam clamavit Iesus voce magna dicens: eli, eli, lama sabacthani? hoc est: deus meus, deus meus, ut quid me dereliquisti? qui autem illic stantes erant et audientes, dicebant, quia Eliam vocat iste* (27, 46. 47).
+
+Digne domino requirendum est quae fuerit illa magna vox Christi, utrum magna rebus significantibus magna mysteria, aut magna sensibili et corporali magnae vocis auditu. puto autem quod omnis vox Christi filii dei magna est, etsi fuerit lenis; et testatur de hoc ipso scriptura in locis maxime illis, in quibus vult erigere auditorem, ut transgrediatur illud, quod multi intellegere possunt in locis, et non maneat in eo (quamvis secundum simplicem intellectum habeat in eo aliquam veritatem), ut intellegere possit aliqua digne propter magnam domini vocem. quoniam ergo his verbis ostendit aliquid esse absconditum magnum, quod clamat ad deum dicens: *quare me dereliquisti*, ideo requirendum est, quid est quod a deo derelictus est
+
+[GCS p.279]
+
+Christus; nec enim fas est credere eum mentiri dicentem: *quare me dereliquisti.*
+
+Et quidam colore religionis pro Iesu, et quia non possunt exponere, quid sit Christum derelinqui a deo, arbitrantur et dicunt: verum quidem est quod dictum est, tamen per humilitatem dictum est. nos autem videntes eum qui »in forma dei« fuerat constitutus ab huiusmodi magnitudine descendentem et semetipsum exinanientem per hoc quod »formam servi suscepit«, et videntes in his voluntatem eius, qui ad haec talia eum transmisit, intellegimus quoniam, quantum ad illa in quibus fuerat forma dei invisibilis et imago secundum patrem, derelictus a patre est, quando »suscepit servi formam«, et derelictus est pro hominibus, ut talia et tanta susciperet, ut »usque ad mortem« veniret, »et mortem crucis«, quae inter homines turpissima esse videtur. extremum enim derelictionis eius [PG 925] factum est, quando crucifixerunt eum et posuerunt super caput eius quasi deridentes eum litteras dicentes: »hic est Iesus rex Iudaeorum«. extremum autem derelictionis eius erat et illud quod inter latrones est crucifixus, et quod »praetereuntes blasphemabant eum moventes super eum capita sua«, et quod principes cum scribis dicebant: »alios salvos fecit, seipsum non potest salvare«, adhuc autem et illud quod »etiam latrones inproperabant ei« in cruce. ergo manifeste intellegere poteris, quid sit quod dicit *quare me dereliquisti?* faciens conparationem gloriae illius quam habuit apud patrem ad confusionem quam contemnens sustinuit in cruce. sedes enim illius erat »sicut sol in conspectu dei, et sicut luna perfecta in aeternum; et erat testis eius fidelis in caelo«. postea autem et, pro quibus dicit: *quare me dereliquisti,* superaddidit dicens: »tu autem reppulisti, et pro nihilo deduxisti, et distulisti Christum tuum, evertisti testamentum servi tui, profanasti in terra sanctitatem eius«, et cetera.
+
+[GCS p.280]
+
+Et quamdiu quidem fuit solis lumen, etiam tanta et talia sustinens non dicebat *quare me dereliquisti?* postquam autem vidit »super omnem terram Iudaeam usque ad nonam horam« tenebras factas, dixit magna voce sua *quare me dereliquisti,* illud ostendere volens per haec, quoniam volens *dereliquisti me,* pater, et talibus exinanitum calamitatibus tradidisti, ut populus qui fuerat apud te honoratus recipiat quae in me ausus est, inplens »mensuram patrum« suorum, et quae super prophetas fecit, ut privetur a lumine tuae prospectionis et efficiatur in tenebris quasi te deo iam nequaquam eis praesente. sed et pro salute gentium *dereliquisti me,* ut »delicto« Israel fieret »gentium salus«. quid autem tam bonum fecerunt qui ex gentibus crediderunt, ut »pretioso sanguine« meo super terram effuso pro eis emerem eos a maligno qui tenuerat eos? et quare »faciem tuam avertisti, et factus sum conturbatus« ut dicam: »tristis est anima mea usque ad mortem«? aut quid tale dignum facturi sunt homines, pro quibus patior ista, ut pro eis ego patiar haec? sicut et propheta iam ante de hoc ipso praedixit, quasi clamans ad te et dicens: »quae utilitas«, pater, hominibus facta est »in sanguine meo, dum descendo in corruptionem? numquid confitebitur tibi pulvis, aut annuntiabit veritatem tuam?« forsitan autem et videns peccata hominum, pro quibus patiebatur, dicebat: *quare me dereliquisti,* ut fierem »quasi qui colligit stipulam in messe, et sicut qui colligit racemos in vindemia, cum non sit botrio ad manducandum primitiva?« et haec dico, »quia periit timoratus a terra, et qui corrigat inter homines non est«. unde non aestimes humano more salvatorem ista dixisse propter calamitatem, quae conprehenderat eum in cruce. si enim ita acceperis, non eris audiens magnam vocem in qua ista locutus est, nec digna voce divina requires. ergo »tenebrae quidem a sexta hora factae sunt super
+
+[GCS p.281]
+
+omnem terram usque ad nonam«; prius autem quam finiatur nona, *clamavit* dominus circa eam *voce magna*, dicens quae scripta sunt, quasi postulans ut oriatur sol terrae, solvens in ea tenebras trium horarum secundum quod tradidimus supra.
+
+== Comm. ser. 136 ==
+136. *Quidam autem illic stantes et audientes dicebant: quia Eliam vocat iste* \*\*\* *ceteri autem dicebant: sine videamus si veniat Elias et liberet eum* (27, 47—49).
+
+Tamquam si audissent quoniam deum vocavit, atque mirati fuissent orationem eius in cruce maiorem, quam fuit oratio Ionae orantis in utero ceti, et prodificati fuissent, ut etiam in extremis calamitatibus constituti orare non desinant deum. maiorem autem dico orationem Christi fuisse quam Ionae in utero ceti propter magnitudinem rerum quae demonstrantur ex ea, et propter magnum effectum voluntariae passionis eius.
+
+== Comm. ser. 137 ==
+137. *Et continuo accurrens unus ex eis accepta spongia inplevit aceto et inposuit arundini, et dabat ei bibere.* et sic inplevit prophetiam in se dicentem de se: »et dederunt in escam meam fel, et in siti mea potaverunt me aceto«. ideo et secundum Iohannem cum accepisset Iesus acetum cum felle, dixit: »consummatum est« etiam hoc, quod de me scriptura praedixerat. iucunde autem quis potest uti hoc textu adversus eos, qui maligna vel scripserunt vel scribunt adversus Christum, de quibus dicit Esaias: »vae qui scribunt maligna; scribentes enim maligna scribunt« (dico autem de illis, qui conscriptiones aliquas dimiserunt, »iniquitatem in excelsum« loquentes). et utetur quis hoc textu videns eos ex quibusdam auditionibus sive ethnicorum verborum sive barbaricorum sermonum congregantes et facientes narrationem quasi *spongiam* quandam, adinplentes eam non de verbo potabili neque de vino laetificante »cor hominis«
+
+[GCS p.282]
+
+neque de aqua »refectionis«, sed de aliquo contrario et nocivo et non potabili *aceto* intelligibili; et hanc *spongiam* inponunt *calamo* scripturae suae et (quantum ad se) laesiones inferunt Iesu ex huiusmodi potu. et quidam quidem dant Iesu »bibere vinum cum felle permixtum«, quod non vult bibere Iesus filius dei, alii autem non vinum sed *acetum*. et forsitan quanticumque secundum doctrinam quidem ecclesiasticam sapiunt, vivunt autem male, dant ei »vinum bibere felle permixtum«, qui autem alienas a veritate sapientias adplicant Christo quasi eo ea dicenti, hi *spongiam* inplentes *aceto* inponunt *calamo* et potant *eum*. sunt autem qui et »acetum et fel«, sicut Iohannes scribit, »offerunt ori eius«. et forsitan qui sapiunt tantummodo [PG 926] male, *spongiam* inplent *aceto* et inponunt *calamo* scripturae suae et potant *eum*, qui autem et sapiunt male de dispensationibus Christi et vivunt nequiter, hi »spongiam plenam ex aceto cum felle et hyssopo inponentes« calamo scripturae offerunt »ori eius«. qui autem neque »vinum« eius bibere vult propter fellis commixtionem, multo magis non bibet »acetum«, neque »acetum felle permixtum«. propterea nos vinum mundum ab omni acerbitate et amaritudine, vinum quod »laetificat cor hominis« et cor ipsius filii dei, accipientes ex eo ipso salvatore nostro Iesu (qui est »vitis vera«) potemus eum et discipulos eius, ut dicat de nobis bene potantibus eum et discipulos eius: »sitii et dedistis mihi potum«. accipiamus et »aquam refectionis« cum qua nutrit iustos »pastor bonus«, ut qui pascuntur ab eo dicant: »super aquam refectionis educavit nos«.
+
+== Comm. ser. 138 ==
+138. *Iesus autem iterum clamans voce magna emisit spiritum* (27, 50).
+
+Quantum ad Matthaeum quidem dicentem, *iterum* clamasse Iesum *voce magna* et *emisisse spiritum*, non autem manifestantem, quae fuerit vox illa magna quam clamavit *iterum*, erat dicere quoniam eandem vocem clamavit iterum, quam supra clamaverat dicens: »deus ⟨meus⟩, deus meus«. sed quia Lucas manifeste scribit, quam vocem
+
+[GCS p.283]
+
+clamavit, cum emitteret spiritum, dicens: »in manus tuas commendo spiritum meum«,
+
+est intellegere et in isto loco quoniam vox illa, quam *iterum* clamavit emittens *spiritum*, fuit ista: »in manus tuas commendo spiritum meum«.
+
+si ergo emittere *spiritum* aut (sicut Iohannes scribit) tradere »spiritum« idipsum erat quod est mori, simpliciter erat intellegendum, quod dicitur in hoc loco *emisit spiritum*. nunc autem, cum mortem nihil aliud esse definiant sapientes nisi separationem animae a corpore, videamus ne forte aliud est simpliciter mori, aliud autem *magna voce* clamare et emittere *spiritum* (sicut praesens exponit Matthaeus) aut »in manus« dei commendare »spiritum« et dimittere »spiritum« (secundum quod dicit Lucas) aut inclinare »caput« et tradere »spiritum« (sicut Iohannes exponit). et mori quidem omnium hominum est, etiam malorum, quoniam omnium hominum animae separantur a corpore, etiam iniquorum, qui dicere ista non possunt quae dixit Christus exiens de corpore suo. magnam autem vocem clamare et sic emittere »spiritum«, quod est »in manus« dei commendare »spiritum« et sic dimittere »spiritum«, aut inclinare »caput« et tradere »spiritum«, non est nisi tantum sanctorum, qui bonis operibus deum sibi praeparaverunt sicut et Christus, ut possint exeuntes de mundo fiducialiter in manus dei commendare vel tradere spiritum suum.
+
+Si ergo intelleximus quid est magnam vocem clamare et sic emittere *spiritum*, id est »in manus dei« commendare (sic enim exposuimus supra proferentes expositionem evangelistae Lucae), si intelleximus quid est inclinare »caput« et tradere »spiritum«, festinemus vitam nostram servare, ut in exitu nostro possimus et nos magnam
+
+[GCS p.284]
+
+vocem clamare et sic emittere *spiritum* aut inclinare »caput« et tradere »spiritum«, sicut Iesus qui »inclinavit caput« et quasi supra patris gremium illud repausans exiit, qui poterat illud in sinu suo fovere et confortare. quodsi vis audire, quid profuit Christo magnam vocem clamasse et sic emisisse *spiritum*, id est »in manus« domini commendasse »spiritum« et sic emisisse aut inclinasse »caput« super gremium patris et tradidisse »spiritum«, audi quod dicit propheta: »propter hoc« enim »non dereliquit animam eius in inferno, nec dedit« eum »videre corruptionem«. si ergo et nos ita nos gesserimus, ut possimus commendare spiritus nostros in manus dei aut inclinare caput super gremium dei et sic tradere spiritum, sine dubio neque nostras animas derelinquet in inferno nec dabit nos in corruptione in perpetuum remanere. sed qui illum post diem tertium revocavit ab inferis, et nos revocabit in tempore opportuno, et qui illi donavit ut non videat caro eius »corruptionem«, nobis donabit, non quidem ut non videat caro nostra »corruptionem«, sed ut liberetur a corruptione tempore opportuno — quoniam ille quidem »peccatum non fecit. neque dolus inventus est in ore eius«, nos autem iusti erimus si vel aliquando a peccatis recesserimus.
+
+Deinde autem quoniam *iterum voce magna clamans* et dicens: »pater, in manus tuas commendo spiritum meum«, *emisit spiritum*, ideo eo spiritu emittente signa facta sunt super eum et prodigia testificantia dignitatem eius hoc modo: *et ecce velum templi scissum est in duas partes a summo usque deorsum.*
+
+quamdiu quidem Iesus non susceperat pro hominibus mortem, »ipse expectatio gentium« constitutus, *velum templi* interiora templi velabat;
+
+oportebat enim ea velari, donec ille qui solus ea poterat revelare manifesta faceret ea videre volentibus, ut per mortem Iesu Christi
+
+[GCS p.285]
+
+destruentis credentium mortem, qui liberati fuerint a morte possint aspicere quae sunt intra velum. quae autem fuerint illa, non est temporis huius exponere, quoniam multam et difficilem interpretationem sunt habentia. opportunius autem convenit ea exponere in tertio libro Regnorum et in secundo Paralipomenon, in quibus scriptum est de templo et de his quae posita sunt intra velum. hic autem hoc tantum scriptum est, quia *velum templi conscissum est in duas partes, a sursum usque deorsum.*
+
+Quaeret autem aliquis, qui non neglegenter intellegit scripturas, et aspici⟨e⟩t duo esse vela, unum quidem interius quod velat sancta [PG 927] sanctorum, alterum autem exterius sive tabernaculi sive templi, quae figurae erant tabernaculi sancti, quod praeparavit ab initio pater. quorum velorum templi unum *scissum est in duas partes a sursum usque deorsum,* quando »voce magna clamans Iesus emisit spiritum«, hoc ostendens (sicut puto) mysterium, quoniam in passione domini salvatoris *velum,* quod erat a foris, *conscissum est a sursum usque deorsum,* ut ⟨*a sursum* (id est⟩ ab initio mundi) *usque* ad *deorsum* (id est usque ad finem eius) conscisso velamine mysteria publicentur, quae usque ad Christi adventum rationabiliter fuerant occulta. et nisi »ex parte« cognosceremus, sed iam nunc manifestarentur omnia adhuc in corpore constitutis dilectis Christi discipulis, utrumque velum fuerat conscindendum, id est quod a foris est et interius. nunc autem quoniam ad scientiam rerum novarum producimur, ideo quod a foris quidem fuerat velum, interim conscinditur *a sursum usque deorsum,* ut »quando venerit quod perfectum est« et revelata fuerint cetera quae restabant, tunc auferatur etiam secundum velum, ut videamus etiam quae intra
+
+[GCS p.286]
+
+secundum velum sunt occultata, veram arcam testamenti et, sicut ipsa se habet natura, videamus cherubin et propitiatorium verum et repositionem mannae in aureo vaso, et omnia manifesta atque maiora illis, quae per legem Moysi fuerant demonstrata, in quibus dixit deus ad eum: »facies omnia secundum formam eorum, quae tibi ostensa sunt in monte«.
+
+Nihil ergo est mirum, quod *velum templi conscissum est* quod interiora velabat mysteria, ut videant discipuli Christi (accipientes oculos spiritales) ea, quae nulli ante Iesum fuerant demonstrata. nemo enim nisi solus princeps sacerdotum, quae fuerant intra velum secundum, videt. sed et Aaron quidem et qui ex eo erant neque virtutem neque dignitatem habebant revelare, quae ipsi videbant, alicui alteri; solus autem qui »cum iureiurando« factus est princeps sacerdotum »in aeternum secundum ordinem Melchisedec«, potuit per dispensationem mortis suae conscindere *velum templi in duas partes a sursum usque deorsum*, ut videantur quae fuerant intus oculis, qui talia possunt videre.
+
+== Comm. ser. 139 ==
+
+*Et terra mota est et petrae scissae sunt et monumenta aperta sunt et multa corpora sanctorum dormientium resurrexerunt; et exeuntes de monumentis post resurrectionem ipsius introierunt in sanctam civitatem et apparuerunt multis* (27, 51ᵇ—53).
+
+*Et terra mota est*, id est omnis caro novo verbo et novis rebus secundum novum testamentum et novo cantico et novis omnibus atque caelestibus venientibus super eam, sicut et propheta de hoc ipso in aliquo dicit loco: »conturbati sunt omnes, qui videbant eos«, id est discipulos Christi, »et timuit omnis homo«. item per alterum prophetam dominus dicit: »adhuc semel ego movebo caelum et terram et mare et aridam«. dicentes autem parva de motu terrae, non inutiliter iterum dicamus et de petris fissis in passione domini salvatoris, quae
+
+[GCS p.287]
+
+mysterium fuerunt (sicut arbitror) prophetarum, manifestatae sunt enim in Christi adventu lex et prophetae; propter quod »ad dominum« convertentibus »cum legitur Moyses, velamen quod positum fuerat super cor eorum, tollitur«, et quod »in lectione veteris testamenti positum erat velamen, in Christo aboletur«. apertae sunt ergo nunc *petrae* et *fissae* sunt, ut in profundis eorum posita spiritalia mysteria videamus. probamus autem fissas tunc petras esse prophetas, primum quidem ex eo, quod »Christus« dicitur »petra« spiritalis, et rationis est omnes imitatores Christi dici similiter petras.
+
+sicut et »lux mundi« dicuntur ex eo, quod ipse dominus eorum »lux« est »mundi«, deinde ex eo, quod etiam Petrus ab ipso domino petra est appellatus, cum dicitur ei: »tu es Petrus, et super hanc petram aedificabo ecclesiam meam, et portae inferorum non praevalebunt ei«. maxime autem hoc demonstratur ex eo, quod omnes quibus non praevalent »portae inferorum«, qui opus nominis petrae habent in se (id est apostoli et prophetae) petrae sunt et ipsi, et sunt fundamenta eorum, qui super eis aedificantur, secundum quod ait apostolus: »superaedificati super fundamentum apostolorum et prophetarum, ipso summo angulari lapide Iesu Christo domino nostro«.
+
+superaedificantur autem apostolis et prophetis maxime, qui sunt de ecclesia immaculata et apostolos Christi mirantur et prophetas non spernunt, sed scrutantur etiam eorum scripturas.
+
+Nunc et de monumentis apertis dicamus. »venit« autem »hora«, secundum quod promiserat Christus, »ut qui in monumentis sunt, audiant vocem filii dei, et vivant«. propterea audientibus eis »vocem filii dei« *monumenta sunt aperta,* quae clusa quidem fuerant quamdiu
+
+[GCS p.288]
+
+mortui erant in eis, *aperta* sunt autem, ut qui *resurrexerant* egrediantur *ex monumentis*, non ante resurrectionem primogeniti »ex mortuis«, sed *post resurrectionem* ipsius, et resurgentes derelinquant quidem monumenta, ingrediantur autem *in civitatem sanctam*, et appareant et manifestentur *multis* volentibus et potentibus *sanctam civitatem* dei videre et quae in ea resuscitata sunt *corpora sanctorum. monumenta* enim dicuntur corpora peccatricium animarum, id est mortuarum deo. cum autem per gratiam dei animae huiusmodi fuerint suscitatae ad fidem, corpora earum quae fuerant prius *monumenta* mortuarum animarum, efficiuntur corpora sanctarum et videntur a seipsis exire, cum desierint esse *monumenta* mortuarum animarum et coeperint corpora esse sanctarum. magna ergo sunt facta ex eo, quod »magna [PG 928] voce clamavit Iesus et emisit spiritum«, et semper haec eadem magna cottidie fiunt. »velum« enim »templi« ad revelanda quae intus habentur, quando non scinditur sanctis »a sursum usque deorsum« et a principio usque ad finem? quando et *terra* eis, qui salute sunt digni, non movetur et tremit quae ante Christi mortem inmobilis erat? quando et *petrae* secundum quod tradidimus non finduntur? sic semper et *monumenta aperiuntur* et *multa corpora* (*sanctorum* quidem dormientium autem) *surgunt* et egrediuntur *de monumentis* (*post resurrectionem* tamen eius in eis, »qui mortuus est pro nobis«) et sequuntur eum qui resurrexit et »in novitate vitae« ambulant cum eo. sic et qui digni sunt habere conversationem in caelis, dicentes: »nostra autem conversatio in caelis est«, ingrediuntur *in sanctam civitatem* per singula tempora, et lumen eorum lucet »coram hominibus«, *et multis* apparent videntibus et intellegentibus »opera bona« ipsorum, et propterea glorificantibus »patrem eorum qui est in caelis«.
+
+[GCS p.289]
+
+Sed et dicere debemus de istis et sapere, quoniam omnis quidem littera evangelii quasi littera vivificat evangelicos (ut ita eos appellem) scribas; spiritus autem, qui supergreditur litterarum naturam, divinioribus motibus magis eos inluminat quibus evangelium non est velatum; omnia enim agunt ut videant quae in anima sua per resurrectionem Christi fiunt mysteria. prodificatur enim quadam prodificatione et qui credit scripturis, maiori autem repletur scientia qui videt, quod conscinditur *velum* scripturae *a sursum usque deorsum*, et videt quae sunt intra eum. beatus est autem et cui *terra* et omnia terrena moventur (propterea enim et a Christo sunt mota): non movebuntur pedes eius, nec dicet: »mei autem paene moti sunt pedes«. quantum autem beatior est qui videt oculis animae fissas petras, quam illi qui tunc corporaliter fieri ista viderunt! si autem quis videns et *monumenta aperta* et *corpora multa dormientium sanctorum* surgentia et *de monumentis* egredientia *post resurrectionem* corporis Christi omnino alienus efficitur a monumentis et domesticus efficitur civitati dei ingressus in eam, quanto magis prodificabitur amplius eis qui corporaliter prodigia ista viderunt? satis autem puto distare hunc, qui ingreditur *in civitatem sanctam* et apparet *multis* quia est in ea, ab illo, qui secundum historiam credit et non ascendit a fide simplici ad altiora mysteria.
+
+== Comm. ser. 140 ==
+*Centurio autem, et qui cum eo erant custodientes Iesum, viso terrae motu et his quae fiebant timuerunt valde, dicentes: vere filius dei erat iste* (27, 54).
+
+Marcus autem sic scribit: »videns centurio qui adstabat ibi, quoniam clamans expiravit, dixit: vere hic homo filius erat dei«; Lucas autem:
+
+[GCS p.290]
+
+»videns centurio quae facta sunt, glorificavit deum dicens: vere hic homo iustus erat«. secundum Marcum quidem centurio, non quia »velum templi fuerat scissum a sursum usque deorsum« nec quia alia facta sunt signa secundum quod refert Matthaeus (id est quia »mota est terra«, quia »petrae sunt fissae«, aut »aperta sunt monumenta«) est admiratus. dignum est ergo videre, quid postea factum est super illud quod scriptum est apud Marcum, ut miraretur centurio dicens: »vere hic homo filius erat dei«. et vide, si dicere possumus secundum unum quidem modum, quia miratus est in his, quae dicta fuerant ab eo ad deum cum clamore et magnitudine sensuum, secundum quod capiebat intellegere, … suspicans admiratus est et dixit: »vere hic homo filius erat dei«; secundum alterum autem modum, quoniam forte praestare volens Pilatus populo universo qui dixerat: »crucifige, crucifige eum«, et timens populi totius tumultum, non iussit, secundum consuetudinem Romanorum de his qui crucifiguntur, percuti sub alas corporis Iesu — quod faciunt aliquando qui condemnant eos qui in maioribus sceleribus sunt inventi (quoniam ergo maiorem sustinent cruciatum qui non percutiuntur post fixionem, sed vivunt cum plurimo cruciatu, aliquando autem et tota nocte et adhuc post eam tota die). Iesus ergo cum non fuisset percussus et speraretur diu pendens in cruce maiora pati tormenta, oravit patrem et exauditus est et statim, ut clamavit ad patrem, receptus est; aut sicut qui »potestatem« habebat »ponendi animam« suam, posuit eam quando voluit ipse, quod prodigium stupuit centurio factum et dixit: »vere hic homo filius erat dei«. miraculum enim erat quoniam post tres horas receptus est, qui forte biduum victurus erat in cruce secundum consuetudinem eorum, qui suspenduntur quidem non autem percutiuntur, ut videretur beneficium dei fuisse quod expiravit, et meritum orationis eius magis quam
+
+[GCS p.291]
+
+violentia crucis. illud etiam quod in sequentibus Marcus exponit, cum »Ioseph« intrasset »apud Pilatum« et petisset ›corpus Iesu‹, hoc ipsum significat. sic enim dicit, quoniam »Pilatus miratus est si iam mortuus esset, et vocans centurionem interrogavit eum si iam mortuus esset«; et cum audisset a centurione, donavit corpus eius Ioseph«. si enim consuetudo, quae apud Romanos fuerat de crucifixis atque percussis, in Christo servata fuisset, quomodo miratus fuisset Pilatus si iam mortuus est? vide ergo nisi novum demonstret miraculum, quod iam mortuus erat et quod »vocavit centurionem Pilatus et interrogavit si iam mortuus est«. vide autem nisi huiusmodi cruciatum fuisse Christi etiam Matthaeus ostendit, dicens: *centurio et qui cum eo erant,* [PG 929] *servantes Iesum.* quare autem eum servabant nisi ut diutius pendens in cruce amplius cruciaretur, neque interfectus neque depositus? tamen *centurio* secundum Matthaeum non tantum dixit de Iesu: *vere dei filius erat iste,* sed et timuit eum, terrae motu eum in timorem mittente. forsitan autem et experimento sciebat super terrae motus, qui in gentibus fiunt, eum terrae motum fuisse, et in hoc stupuit videns.
+
+Et observa quoniam apud Marcum, ubi centurio nullum miraculum vidisse refertur, hominem dicit Iesum filium dei; qui autem a conscissione veli vel a terrae motu stupuit, hominem illum fuisse non dicit sed *filium dei.* consentit autem nobis ad tractatum quem fecimus de scriptura Marci etiam sermo conscriptionis Lucae, quoniam et ipse sic scribit: »vere hic homo iustus erat«. apud quem nihil aliud dicitur nisi de velo: »videns«, inquit, ›centurio quae facta sunt, glorificavit deum dicens: vere iustus erat hic homo«. quoniam autem tale aliquid factum est in tempore condemnationis Christi, et non iussit Pilatus consuetudinem servare ut percutiatur corpus Christi, manifestat etiam Iohannes hoc modo scribens, quoniam »rogaverunt Pilatum, ut frangerentur crura eorum et tollerentur«. quid autem necessarium
+
+[GCS p.292]
+
+fuerat rogare et preces offerre de hoc, si secundum consuetudinem factum fuisset? miserti sunt ergo Iudaei post crudelem condemnationem eorum, qui quantum ad aestimationem eorum vivebant in cruciatu terribili, et prioris quidem crura fregerunt, similiter et secundi; Iesus autem non opus habuit intercessionibus eorum aut precibus quas obtulerunt Pilato, propter quod venientes ad Iesum, quoniam iam mortuus erat, crura eius non fregerunt. aut forte non propter misericordiam hoc fecerunt Iudaei, sed principaliter propter sabbatum, ut non maneant corpora super cruce in sabbato. erat enim magnus dies illius sabbati. haec tractavimus propter quod scriptum est, quia *centurio, et qui cum eo servabant Iesum, videntes terrae motum, et quaecumque fiebant timuerunt* et cetera. verisimile est enim quoniam viderunt quomodo velum templi erat conscissum usque deorsum, et cetera mysterium ostendentia eorum, quae supra tradidimus, et *timuerunt valde*, hoc enim significat quod dicitur *valde*.
+
+Vide autem ne forte et moralem expositionem suscipit sermo hoc modo: quoniam sunt quidam, qui suscipiunt Christum et servant; qui si quando viderint secundum quod tradidimus velum scindi et petras sicut exposuimus findi et monumenta secundum quod exposuimus aperiri et corpora mortuorum sanctorum exeuntia de monumentis et introeuntia in civitatem sanctam (id est ecclesiam), adducuntur in timorem dei et testimonium perhibent ei, quoniam filius dei est qui talia passus est. et non erit mirum, si confessus fuerit aliquis filium dei verbum et sapientiam et veritatem et omnia quaecumque dicitur filius dei. et laudabilis est, qui non conturbatur in his quae videntur contigisse ei more humano, et confitetur quia filius erat dei.
+
+== Comm. ser. 141 ==
+*Erant autem ibi mulieres multae a longe videntes, quae secutae fuerant Iesum a Galilaea ministrantes ei; inter quas erat Maria Magdalena, et Maria Iacobi et Ioseph mater, et mater filiorum Zebedaei* (27, 55. 56).
+
+[GCS p.293]
+
+De istis mulieribus prophetasse referunt Esaiam dicentem: *mulieres venientes ad spectaculum venite; non enim est populus habens sapientiam*. vocat enim *mulieres* quae fuerant de longe et de *longe* videbant Iesum, vocat eas ad verbum, ut derelinquant quidem populum insensatum et derelictum et accedant ad novum testamentum. beatas autem arbitror esse *mulieres* quae aedificantur ad beatitudinem a spectaculo verbi et a morte corporis Iesu; omne enim quod est in Christo, si vere videatur, beatum facit videntem.
+
+aspiciunt ergo mortificationem corporis Iesu et modum, quo eum precibus »spiritum suum« commendavit patri. hae primum *secutae* sunt *a Galilaea*, et ut audens dicam (utens auctoritate scripturae docentis) *a Galilaea* »gentium« *secutae* sunt, non a recta neque a firma sed circuitum quendam habente (hoc enim intellegitur *Galilaea*, id est VOLUTATIO VEL VERTIGO) quam relinquentes *secutae* sunt *Iesum* non otiosae, sed facientes quae mandabantur ab eo, et delectabant eum; *ministrantes* enim sequebantur eum.
+
+omnis autem anima divisionem aliquam gratiarum et ipsum dominum participans, ministrat Iesu ministerium simile ministeriis angelorum, de quibus scriptum est, quoniam »accedentes angeli ministrabant ei«.
+
+Multae ergo erant spectantes tunc Iesum, praecipuae autem nominatae sunt et quasi attentius *spectantes* et amplius *ministrantes* et melius sequentes: *Maria Magdalena* magis interpretationi nominis patriae suae conveniens,
+
+[GCS p.294]
+
+quae Magdala appellatur (interpretatur autem MAGNIFICATIO locus ille).
+
+et erat haec *Maria Magdalena* de magnificatione propter nihil aliud, nisi quia secuta fuerat *Iesum* et ministraverat *ei* et spectaverat mysterium passionis ipsius. erat autem inter praecipuas
+
+et *Maria Iacobi et Ioseph mater* aut (sicut Marcus dicit) »Iacobi minoris et Ioseph mater«, secundum nomen patriarchae Iacob SUPPLANTATORIS fratris sui et Ioseph, super quem natum genetrix dixit: »adiciat mihi dominus filium alterum«.
+
+et haec igitur sequens dominum et ministrans et spectans dispensationem passionis ipsius, quoniam fidelis alicuius fuerat *mater*, non magni alicuius (qualis fuerat patriarcha) Iacob sed minoris *et Ioseph* [PG 930] alterius. erat autem inter mulieres
+
+et *mater filiorum Zebedaei*, forsitan aliqua consistens in ministerio TONITRUS
+
+propter fidem et vitam sanctam et quia dominum sequebatur et ministrabat ⟨ei⟩ et spectatrix fuerat omnium quae gesta fuerant circa eum, quia filii Zebedaei vocati sunt »FILII TONITRUI«. erant enim filii eius Iohannes et Iacobus: ideo Iohannes audivit septem tonitruum verba, quae quasi eminentiora omni scriptura, ut non scriberet, accepit mandatum. si autem oportet opinari et dicere etiam nomen matris *filiorum Zebedaei*,
+
+dico quoniam haec ipsa fuerat Salome PACIFICA appellata.
+
+[GCS p.295]
+
+opinatus sum autem hoc, videns apud Matthaeum et Marcum tres praecipuas mulieres nominatas, de quibus praesens sermo habetur, et duas quidem esse praesens evangelista exponit »Mariam Magdalenam et Mariam Iacobi«, tertiam autem matrem dici *filiorum Zebedaei*; apud Marcum autem tertia illa »Salome« appellatur. et secundum Marcum, *quae secutae fuerant Iesum a Galilaea*, cum Christo »ascenderunt in Hierusalem«.
+
+iste est enim finis eorum qui derelinquunt Galilaeam »gentium« et sequuntur Iesum, ut non solum ascendant in Hierusalem, sed etiam cum Iesu ascendant in eam.
+
+hoc enim significat quod simul ascendisse referuntur cum Christo.
+
+== Comm. ser. 142 ==
+142. *Cum sero autem factum fuisset, venit quidam homo dives ab Arimathia, nomine Ioseph, qui et ipse discipulus erat Iesu; hic accessit ad Pilatum et petiit corpus Iesu. tunc Pilatus iussit reddi corpus* (27, 57. 58).
+
+Qui petit *corpus* domini a Pilato, non qualiscumque aliquis erat, sed laudabilibus divitiis dives. et quia decurio constitutus mysterium nominis Christi portabat in veritate (quod est decem), ideo libenter pro beneficio magno postulavit *corpus Iesu* a Pilato, et non permisit eum pendere in ligno. propterea laudatur ab evangelistis, quia »iustus et vir bonus« *et discipulus* fuerat *Iesu*, et fructus discipulatus sui reddidit forte, sicut in multis, sic et in corpore Christi, quia »expectans erat regnum dei«, sicut docuerat Iesus.
+
+== Comm. ser. 143 ==
+143. *Et accepto corpore Ioseph involvit in sindone munda, et posuit eum in monumento suo novo quod excidit in petra, et advolvit lapidem magnum ad ostium monumenti et abiit* (27, 59. 60).
+
+[GCS p.296]
+
+In *sindone munda involvit et in monumento posuit novo*, ubi nemo mortuus erat, servans corpus Iesu ad resurrectionem praecipuam. puto autem magis munditiam sindo illa habebat, ex quo involutum est corpus Christi quam prius; corpus enim Iesu etiam in morte constitutum, quasi corpus Iesu mundabat omnia quaecumque tangebat et magis innovabat monumentum illud novum *quod* fuerat excisum *in petra*. et ne aestimes quia fortuito scriptum est et eventu dictum est, quoniam *involvit* corpus *in sindone munda et in monumento posuit novo*, et quia monumentum illud excisum erat *in petra*, monumentum mundum, quod a corpore Iesu mundius erat factum quam fuerat priusquam poneretur Iesu corpus in eo. quaeres autem, si sunt homines nihil amplius habentes quam corpus Iesu, novi quidem et excisi *in petra*, et monumentum sunt eius mundum, et ideo salvi efficiuntur. consequenter autem et alii sunt extra eos qui habent Iesum viventem: et quidam eorum habent Iesum et ante passionem viventem, quidam autem resurgentem a mortuis; et quidam secundum quod multis apparet et non habentem »speciem neque decorem«, alii autem habent in gloriam reformatum, alii autem vident eum ascendentem et sperant rapi cum eo in nube, ut »semper« habeantur cum ipso.
+
+Ergo Matthaeus novum esse monumentum conscripsit, et *in petra* excisum [non] exposuit manifeste. et quoniam novum erat ab omni corpore mortuo, manifestaverunt Lucas et Iohannes, quorum unus quidem dixit: »in quo nondum erat aliquis positus«, Iohannes autem: »in quo nondum aliquis positus erat«—plane si numquam aliquis positus fuerat ibi, postea autem positi sunt; nam quod dicit: »in quo nondum aliquis positus erat«, caute considerantibus verbum hoc significatur. dicimus ergo (ne forte simpliciter intellegere debemus hunc locum), quoniam, qui dixit: »consepulti sumus Christo per baptismum« et consurreximus ei, in *monumento novo* et intellegibili exciso *in petra* consepultus est et ipse post Christum cum Christo, et omnes qui consepulti sunt Christo in baptismo, ut resurgant cum eo ex novo monumento
+
+[GCS p.297]
+
+primogeniti »ex mortuis et in omnibus primatum« tenentis. *volvit* autem Ioseph non lapides multos *ad ostium monumenti* sed unum, et *magnum*. et maiorem quam poterat esse insidiantium virtus, non tamen maiorem quam virtus erat angeli descendentis »de caelo« et revolventis ab eo »lapidem«, et sedentis »super eum«; quoniam omnia, quae sunt circa corpus Iesu, munda sunt et nova, et non simpliciter magna sed »valde« omnia magna.
+
+== Comm. ser. 144 ==
+*Erat autem ibi Maria Magdalena et altera Maria sedentes contra sepulcrum* (27, 61).
+
+Post haec caritas duarum Mariarum, Magdalenae et matris Iacobi et Ioseph, colligavit eas ad monumentum novum, propter corpus Iesu quod fuerat ibi. et hoc observa, quoniam superius duae istae Mariae »et mater filiorum Zebedaei«, quam aestimamus ipsam esse Salomen, »de longe spectabant« mirabilia, quae in passione Christi fiebant, et corpus eius suspensum in ligno. hic autem non permanserunt tres: mater enim filiorum Zebedaei non scribitur cum Maria Magdalena et cum Maria matre Iacobi et Ioseph simul sedere contra sepul- [PG 931] crum. forsitan enim usque hoc pervenire potuit mater filiorum Zebedaei; istae autem, quasi maiores in caritate, neque his, quae postea gesta sunt, defuerunt.
+
+== Comm. ser. 145 ==
+*Altera autem die, quae est post parasceuen, convenerunt principes sacerdotum et Pharisaei ad Pilatum dicentes: domine, rememorati sumus quod ille seductor dixit adhuc vivens: post tertium diem resurgam. iube ergo custodiri sepulcrum usque in diem tertium, ne forte veniant discipuli eius et furentur eum et dicant plebi: resurrexit a mortuis; et erit novissimus error peior priore. ait autem illis Pilatus: habetis custodes; ite custodite sicut scitis. illi autem euntes munierunt sepulcrum signantes lapidem cum custodibus* (27, 62—66).
+
+Rationis est interrogare *principes sacerdotum*, qui venerunt ad *Pilatum*, ut dicerent haec quae dixerunt: dicite, sacerdotes, cum dixisset Iesus: »solvite templum hoc, et ego in triduo suscitabo illud«,
+
+[GCS p.298]
+
+quo proposito eum dixisse putatis? de solutione et resurrectione »corporis sui« aut de templi destructione et reparatione ipsius? si enim intellexistis sic, quia de resurrectione sua ista dicebat, quomodo testimonium dantes adversus eum dixistis, quoniam »hic dixit: possum solvere templum hoc et in triduo reaedificare eum«? si autem vere de templo illo intellexistis, secundum quod et testimonium praebuistis, unde modo scitis quoniam dixit »post tres dies« a mortuis se resurrecturum? vide ergo quomodo impietas seipsam suis verbis expugnat. per haec enim verba ipsi testimonium suum illud condemnant, quoniam vere intellegentes eum de resurrectione ›corporis« sui illa dicere et scientes converterunt sermones eius ad destructionem et reparationem illius insensibilis templi.
+
+Adhuc autem interrogo: quid dicitis, sacerdotes? nempe quia dicebat hominibus: »post tres dies resurgam«, et secreto mandabat discipulis suis ut *furentur eum noctu et dicant* post tres dies quia *resurrexit a mortuis*? sed hoc ex hoc ipso incredibile est, post tantos sermones morales quos in populo docuit universo et post tales et tantas virtutes quas ubique in omni Iudaea ostendit, ut falleret discipulos suos verbis, ut etiam ipsi culparent ista mandantem, et ideo nequaquam facerent quod mandabat, maxime propter periculum quod imminebat eis a populo, si confiterentur eum qui ante modicum fuerat crucifixus et doctorem se habere et Christum. si autem hoc eum dixisse incredibile est, vide nisi consequens est, ut sicut prodigia fecit, ut sicut evangelium suum praedicandum »in toto mundo« praedixit, et sicut: »ante praesides et reges stabitis«, et sicut: »Hierusalem destruetur ab exercitu«, sic et de resurrectione sua praedixit quod ait: »solvite templum hoc, et ego in triduo suscitabo eum«. propterea et in praeiudicium suum locuti sunt *sacerdotes et Pharisaei ad Pilatum dicentes, quoniam ille seductor dixit adhuc vivens, quoniam post tres dies resurgam.*
+
+[GCS p.299]
+
+Adhuc autem vide quoniam »quidam venientes de custodibus in civitatem nuntiaverunt«, non aliis, sed ipsis »principibus sacerdotum omnia quaecumque fuerant facta«, ut ex omni parte inexcusabilis eorum constituatur impietas; illi autem nec sic miserrimi adquieverunt documentis tantis, ut susciperent, quia Iesus erat Christus, sed et post haec omnia malignabantur propter duritiam cordis sui. quia sicut induratum fuerat cor Pharaonis super tantis et talibus prodigiis, quae in Aegypto fuerant facta, sic et isti sunt indurati, ut »congregati cum senioribus et consilium accipientes darent pecuniam« avaris ut dicant, »quia discipuli eius venientes noctu furati sunt eum dormientibus nobis«. et qui legebant in lege: »non falsum testimonium dices«, etiam alios ad falsum testimonium invitabant, expendentes pecuniam multam ut milites quidem falsum testimonium dicant (propter avaritiam periculis se subdentes si furatum esset corpus Iesu), praesidem autem multo magis placarent et ei suaderent (tantis pecuniis quantis poterat praeses placari sive autem et precibus), volentes eos eruere de periculo, qui adversus seipsos falsum testimonium praebuerunt dicentes contra disciplinam militarem obdormisse se tunc tanto somno, ut discipuli ausi essent venire simul et multi (confidentes quoniam milites dormiunt abundantius) et sic furarentur corpus Iesu.
+
+Et haec omnia gerebantur ab operantibus contrariis virtutibus contra Christi doctrinam, aestimantibus quoniam poterant extinguere a vita hominum de resurrectione domini providentiam dei et fidem. et sicut nimia duritia Pharaonis non est mollita multis prodigiis factis per Moysen, sic aut amplius duritia cordis istorum non solum factis signis et prodigiis non est flexa, sed neque custodibus nuntiantibus crediderunt, »qui venerunt in civitatem et nuntiaverunt omnia quaecumque fuerant facta«. et »Pharaoni« quidem dictum est: »ad hoc ipsum te suscitavi, ut ostendam in te virtutem meam, et ut annuntietur nomen meum in universa terra«, istos autem »supportavit« magnanimitas dei, »vasa irae praeparata in interitum«, ut fiat »salus in gentibus«.

@@ -1,0 +1,294 @@
+# Origen, *Commentariorum Series in Matthaeum* — Latin source — Matthew 25:1–46 (Comm. ser. §63–73)
+# The old-Latin *Series*: an anonymous late-antique (5th/6th c.) Latin rendering of Origen's
+#   now-lost Greek commentary, covering Matthew 22:34–27:66, transmitted as 145 numbered sections.
+#   This folder holds the Latin base text used for the English translation in the main repository.
+# Edition: E. Klostermann & E. Benz (edd.), *Origenes Werke* XI — *Matthäuserklärung* II:
+#   *Die lateinische Übersetzung der Commentariorum Series*, GCS 38 (Leipzig, 1933).
+# Digital source: the public-domain page scans of GCS 38 on archive.org. The running text was
+#   transcribed from the images and verified page-by-page against the printed critical text
+#   (a 20-page sampling QC measured a substantive word-error rate of ~0.02%).
+# Stripped: critical apparatus, running heads, marginal line-numbers, and the parallel Greek
+#   catena fragments Klostermann prints (this is the Latin reading text only).
+# Marks:  »…« = Scripture that Origen quotes;  *…* = the Matthew lemma under comment;
+#   ⟨…⟩ = the editor's supplements (insertions);  […] = the editor's seclusions;
+#   … = a printed lacuna (do not fill);  A et Ω etc. = Greek letters Origen's text quotes.
+#   [GCS p.N] = GCS 38 printed page,  [PG n] = Migne PG 13 column — kept for traceability.
+# Structure: == Comm. ser. N == follows Klostermann's section numbering (1–145).
+# English translation (public domain): https://github.com/HistoricalChristianFaith/Writings-Database
+============================================================
+
+== Comm. ser. 63 ==
+63. *Tunc simile est regnum caelorum decem virginibus, quae accipientes lampades suas exierunt in obviam sponso et sponsae. quinque autem ex eis erant fatuae et quinque prudentes* (25, 1—2).
+
+In omnibus qui didicerunt verbum dei, *regnum caelorum* adsimi[PG 881]latur *virginibus decem*. et si quidem in eis, qui recte et credunt et vivunt et ideo …, iuste adsimilatur quinque prudentibus, qui autem profitentur quidem fidem in Iesum non autem praeparant se bonis operibus ad salutem, reliquis quinque virginibus fatuis, non inrationabiliter dicimus sensus omnium qui didicerunt divina, quomodocumque verbum dei receperunt, »sive occasione sive veritate«, quoniam virgines sunt virginificatae per verbum dei cui crediderunt aut credere volunt. tale est enim verbum dei, ut de sua munditia adcommodet omnibus qui per suam doctrinam recesserunt quidem ab idolorum cultura vel cultura elementorum creationis dei,
+
+[GCS p.146]
+
+accesserunt autem per Iesum Christum ad dei culturam, quamvis non fuerint subsecuta opera pietatis neque ad beatitudinem praeparaverint semetipsos.
+
+sicut autem secundum verbum veritatis ⟨sub⟩sequuntur seipsas alterutrum virtutes, quae sunt substantia Christus.
+
+ita ut qui unam habuerit omnes habeat, et qui unam minus habuerit nec unam habeat (Christus enim a seipso inrecessibilis est), sic et sensus omnes alterutrum se subsequuntur, et ubicumque minus fuerit unus de sensibus secundum rectam verbi doctrinam, ibi omnino et omnes sensus quasi fraudati a verbo sapientiae infatuantur.
+
+sensus autem dico et eos, qui et communiter intelleguntur, visio, auditio, odoratio, gustatio, palpatio, et eos, qui in Proverbiis appellantur divini,
+
+hoc modo dicentibus: »sensum divinum invenies«. iterum autem, quoniam verbum dei causa est, ut rectus fiat sensuum usus, et non est possibile eum, cum sit in sensibus, … ut in quibusdam quidem sensibus operetur et diligenter tribuat, quae prudentiae suae sunt, in aliis autem neglegat, ideo si unum de sensibus fecerit sapientem, ut virgo constituatur, necesse est ut et in aliis sensibus sapientiam suam effundat.
+
+propterea non est videre de quinque sensibus in aliquo quosdam quidem fatuos, quosdam autem prudentes; sed necesse est ut aut omnes *quinque* sint *prudentes*, aut omnes *fatui*.
+
+Omnes isti sensus *lampades* suas accipiunt, id est organa sua naturalia, sive
+
+[GCS p.147]
+
+secundum verbum dei eis uti volentes, sive et contra voluntatem dei, tamen accipiunt eas, quando recipiunt sponsum esse ecclesiae verbum dei et filium dei; et egrediuntur de mundo et de erroribus deorum multorum, et veniunt *in obviam* salvatori, qui semper paratus est venire ad virgines eas,
+
+ut simul ingrediatur cum dignis eorum ad beatam sponsam ecclesiam. sed quamdiu quidem post verbum receptum lucet lumen fidelium »coram hominibus, ut videntes opera eorum bona glorificent patrem eorum qui est in caelis«, hae et *prudentes* sunt et accipientes oleum nutrimentum luminis sunt quod semper infunditur actibus bonis, id est verbum doctrinae,
+
+et vasa animarum suarum ab hoc verbo inplentes a doctoribus et traditoribus qui illud venundant, quod satis sit eis etiam tardante exitu et remorante verbo veniente ad consummationem eorum, ut consummatae et extra mundum factae festinent illuc. quantis autem non fuit cura post inchoationem Christianitatis tantam accipere verbi doctrinam, quanta sufficeret eis durare usque ad finem, neglegentes circa susceptionem doctrinae quae confortat fidem et bonorum actuum lumen inluminat (quid autem sic confortat sicut moralis sermo, quod oleum luminis appellatur?), hae *fatuae* sunt, et acceperunt lampades in primis quidem accensas, sed ad tantum iter obviam exeundi sponso *oleum non acceperunt. moram autem sponso faciente dormitaverunt omnes virgines et dormiebant.* ita sponso tardante et non cito veniente verbo ad consummationem vitae eorum, hinc patiuntur aliquid quasi sensus et quasi in nocte mundi agentes et dormitantes.
+
+[GCS p.148]
+
+dormierunt quidem (utputa remissius egerunt a sensu illo vitali), non tamen et lampades perdiderunt neque desperaverunt de conservatione olei illae *prudentes*.
+
+== Comm. ser. 64 ==
+*Media autem nocte clamor factus est: ecce sponsus venit, exsurgite obviam ei. tunc surrexerunt virgines illae omnes et conposuerunt lampades suas. fatuae autem prudentibus dixerunt: date nobis de oleo vestro, quia lampades nostrae extinguuntur. responderunt autem prudentes, dicentes: ne forte non sufficiat nobis et vobis; ite potius ad vendentes et emite vobis. abeuntibus autem illis emere venit sponsus, et quae paratae erant, intraverunt cum eo ad nuptias, et clusa est ianua. novissime autem venerunt reliquae virgines dicentes: domine, domine, aperi nobis. at ille respondens ait: amen dico vobis, nescio vos* (25, 6—12).
+
+*Media autem nocte*, id est in altitudine remissionis, et in medio tempore iam transacti luminis vespertini et adhuc sperati diurni, *factus est clamor* omnes suscitare volentium (sicut aestimo) angelorum, qui »omnes sunt ministratorii spiritus, qui mittuntur ad ministerium propter possessuros salutem«, qui et solliciti fuerunt eos, qui sunt sensibiles, excitare *in obviam* sponso, et dicunt intus clamantes in sensibus omnium dormientium:
+
+*ecce sponsus venit, surgite in obviam ei.* et suggestionem quidem oportere *obviam* ire sponso verbo et ecclesiae inmaculatae, *omnes* quidem audierunt et *surrexerunt*: non autem omnes decentem inposuerunt lampadibus suis ornatum, sed quae audierunt prudentiam eas ornantem.
+
+[GCS p.149]
+
+Ita non in tempore opportuno *fatuae dixerunt prudentibus*: *date nobis de oleo vestro*, quasi quae non sibi congregaverant ante prudentiam, ut intellegant quoniam non omnium habentium oleum est etiam dare ex eo volentibus aliis, sed eorum tantummodo qui ad hoc ipsum positi sunt, ut venundent et tribuant et accipiant pretium olei [PG 882] venundati, cuius pretium est perseverantia et instantia et amor discendi et diligentia et labor cupientium discere.
+
+*date nobis de oleo vestro, quoniam lampades nostrae extinguuntur*. nam etsi *fatuae* erant, tamen hoc intellegebant, quoniam eum lumine debebant *obviam* ire sponso, omnes lampades sensuum inluminatas habentes. videbant autem et illud, quoniam ex eo quod minus habebant *oleum* rationabile iam ⟨ad⟩propinquantibus tenebris, lampades earum fuerant obscurandae. sed sapientes transmittunt fatuas ad olei venditores, videntes quoniam non tantum *oleum*, id est verbum doctrinae, congregaverant, ut *sufficeret* et ipsis ad vitam et illas docerent ornare lampades suas. et si consideraveris aliquem aliquando, quoniam congregavit quidem doctrinam verbi quo⟨a⟩d sibi sufficiat ad bene vivendum, non tamen ut etiam doctor fieri possit, videbis hunc talem respondentem volentibus ab eo discere, quae sunt dei, et dicentem: *ne forte non sufficiat nobis et vobis*: sufficientem enim mihi ad bene vivendum habeo verbi doctrinam, non tamen ut et vobis possim adcommodare doctrinam.
+
+et respondebunt volentibus a se discere: *ite magis ad venditores et emite vobis*, id est: ad doctores, et ab eis accipite. et *fatuae* non quando oportebat euntes ad doctrinam sibi emendam,
+
+[GCS p.150]
+
+perdunt tempus introeundi cum sponso *ad nuptias*.
+
+et est videre eos, qui talia patiuntur, qui, quando debuerunt quidem discere, neglexerunt discere aliquid utile ex eis, a quibus discere debuerunt,
+
+in ipso autem exitu vitae suae dum disponunt discere.
+
+conprehenduntur a morte et propterea non ingrediuntur cum verbo ad sponsam ecclesiam nec cum Christo ad eos, qui simul in requie sunt futuri et in beatitudine regnaturi. cluditur autem postea *ostium* adhuc fatuis virginibus oleum accepturis, quae et sine causa postea venient dicentes: *domine, domine, aperi nobis.* itaque *respondens* sponsus dicit: *nescio vos.*
+
+Itaque, quoniam parabola omnibus audientibus dicebatur, subiungit ad discipulos suos dicens: *vigilate ergo, quia nescitis diem et horam.*
+
+ornantur autem *lampades* sensuum evangelicis usibus atque rectis, ut sit quidem oculorum ornamentum rectus usus videndi, ut oculi videant quidem ad admirandum factorem, cludantur autem »ut ne videant iniquitatem«. auditus autem est ornamentum, quando quis auditionem quidem non suscipit vanam, sed »obturat aures suas ut non audiant iudicium sanguinis«, audit autem Iesum dicentem ad se: »adaperire«, ut tantum ad verba salutaria et necessaria praebeantur.
+
+sic et de ornamento gustus quis dicere potest et de odorationis et palpationis secundum ea quae dicta sunt,
+
+[GCS p.151]
+
+quoniam qui male utuntur sensibus suis, eorum nullum est ornamentum aut in oculis aut in auribus aut in reliquis sensibus. observandum est autem, quoniam scriptum est quidem fatuas transmissas ad *oleum* conparandum, non tamen referuntur emisse aut accepisse, sed (hoc in silentio praetermisso) postea dictum quoniam post hoc *veniunt et reliquae virgines dicentes: domine, domine, aperi nobis.* cum potuisset dicere: postea venerunt accepto oleo vel conparato, convenienter siluit, ut ne habentibus oleum vel in extremo ornantibus lampades suas diceret: *nescio* qui estis. nec enim scribitur quia ornantes lampades suas venerunt.
+
+tamen finis verbi est iste, ut in omni tempore praeparemus nos ad exitum,
+
+ut non demus somnum oculis nostris neque palpebris nostris dormitationem, quia nescimus diem et horam exitus nostri.
+
+== Comm. ser. 65 ==
+
+*Sicut enim homo peregre futurus vocavit servos suos, et tradidit eis bona sua* (25, 14).
+
+Et primum quidem videamus, quare peregrinanti homini adsimilatur dominus noster, qui unus est dominus noster, de quo ait apostolus: »nobis autem unus dominus Iesus Christus, per quem omnia et nos per ipsum«, si tamen ab eo tantummodo dominemur et neque mammonam dominum habeamus neque aliquem dominorum eorum, quos multos esse significans ipse apostolus dicit: »sicut enim sunt dii multi et domini multi«. ergo primum quaeramus de peregrinatione ipsius, maxime quia peregrinationi eius videtur esse contrarium quod ipse de se discipulis suis promittit, dicens: »ubi fuerint duo vel tres congregati in nomine meo, ibi sum in medio eorum«,
+
+[GCS p.152]
+
+item illud: »ecce ego vobiscum sum omnibus diebus usque ad consummationem saeculi«, et quod baptista dicit de eo (ubique eum esse demonstrans) ita: »in medio autem vestrum stat, quem vos nescitis, ipse est qui post me venit«. propterea dicet aliquis: si in medio etiam nescientium se stat, si »ubicumque duo vel tres congregati fuerint in nomine« eius inter eos habetur, si per omnes dies vitae discipulorum cum eis est »usque ad consummationem saeculi«, quomodo in ista parabola proponitur peregrinans? tractantes autem adsumere debemus et illud quod Paulus ait de se: »ego autem absens corpore, praesens autem spiritu, iam iudicavi ut praesens, congregatis vobis et meo spiritu cum virtute domini Iesu, eum qui talis est tradere satanae in interitum carnis, ut spiritus eius salvus sit in die domini nostri Iesu Christi«. si enim virtus Iesu congregatur cum his, qui congregantur in nomine eius, non peregrinatur a suis sed semper praesto est eis. quod si semper omnibus suis est praesens, quomodo introducunt eum parabolae eius peregrinantem?
+
+Vide si possumus solvere hoc modo, quod quaeritur. qui enim dicit discipulis suis: »ecce ego vobiscum sum usque ad consummationem saeculi«, et item: »ubi fuerint duo vel tres congregati in nomine meo, et ego sum in medio eorum« et cetera, et qui in medio etiam [PG 883] nescientium se consistit, unigenitus dei est, deus verbum et sapientia et iustitia et veritas ⟨et pax⟩, qui non est corporeo ambitu circumclusus. secundum hanc divinitatis suae naturam non peregrinatur; sed peregrinatur secundum dispensationem corporis, quod suscepit, secundum quod et turbatus est et tristis factus est dicens: »nunc anima mea turbatur«, et iterum: »tristis est anima mea usque ad mortem«. haec autem dicentes non solvimus suscepti corporis hominem, cum sit scriptum apud Iohannem: »omnis spiritus qui solvit Iesum, non est ex deo«; sed unicuique substantiae proprietatem eius servamus. si enim omnis homo fidelis »qui coniungitur domino unus spiritus est«, quanto magis homo ille, quem secundum dispensationem
+
+[GCS p.153]
+
+carnis Christus suscepit, non est solvendus ab eo nec alter est dicendus ab eo? et vide quomodo ait *sicut homo peregre futurus*; quoniam non erat homo sed *sicut homo*, et quasi homo peregrinabitur, qui erat ubique secundum divinitatis naturam. simul considera quoniam non videtur redditio sermonis ita conscripta: *sicut homo* peregrinans sic et Iesus, aut ita: sic et ego, aut ita: sic et filius hominis; quoniam ipse est, qui in parabola proponitur peregrinans quasi homo. nec enim est homo, qui est »ubicumque duo vel tres in nomine« eius »fuerint congregati«, neque homo nobiscum est »omnibus diebus usque ad consummationem saeculi«, nec congregatis ubique fidelibus homo est praesens, sed virtus divina quae erat in Iesu.
+
+Possumus etiam talia dicere de hoc loco: nihil contrarium est, eum ipsum Iesum secundum quendam quidem intellectum esse ubique secundum alium autem peregrinari. si enim nos »dum sumus in corpore, peregrinamur a domino (per fidem enim ambulamus, non per speciem)«, in omnibus, qui sunt in corpore et peregrinantur a domino, peregrinatur ab eis et dominus »per fidem« ambulantibus, »non per speciem«. si autem peregrinantes »a corpore« eum domino fuerimus, tunc et ipse erit nobiscum et pro eo quod »per fidem« ambulavimus, ⟨fiet⟩ ut et »per speciem« postea ambulemus. speciem autem dicimus verbi et sapientiae et veritatis et iustitiae et pacis et omnium quidquid est unigenitus dei. speciem autem verbi et speciem sapientiae intelleges, cum intellexeris quod ait apostolus: »filii mei, quos iterum parturio donec formetur Christus in vobis«. formatum enim Christum intellegens in aliquo, videbis consequenter secundum formationem huiusmodi etiam speciem Christi. iste ergo qui *quasi homo peregre est profectus, vocavit servos suos, et tradidit eis* probatam pecuniam suam in eloquiis castis, quoniam »eloquia« eius »eloquia casta, argentum ignitum, probabile, purgatum septies«.
+
+== Comm. ser. 66 ==
+*Et uni dedit quinque talenta, alii autem duo, alii vero unum, unicuique autem secundum propriam virtutem, et profectus est. statim abiit, qui quinque talenta acceperat, et operatus est in eis et lucratus est*
+
+[GCS p.154]
+
+*alia quinque talenta. similiter et qui duo accepit. lucratus est in eis alia duo. qui autem unum accepit. abiens fodit in terram et abscondit pecuniam domini sui* (25, 15—18).
+
+Ergo si quando videris eorum qui acceperunt a Christo dispensationem eloquiorum dei, alios quidem habere amplius et divinius et abundantius, alios autem minus et (ut ita dicam) neque in dimidio intellegentes rerum negotia conparatione eorum qui multo sunt meliores, alios autem adhuc minus habere, videbis differentias eorum qui eloquia dei susceperunt a Christo, quoniam alia fuit virtus eorum quibus data sunt *quinque talenta*, alia quibus *duo*, alia quibus *unum*, et alter alterius non capiebat mensuram. et *qui accepit* talentum *unum*, accepit quidem datum non contemptibile: multum est enim et unum talentum talis domini. tamen tres sunt proprii servi eius qui *peregre profectus est quasi homo*, sicut et tria genera sunt eorum qui fructum faciunt, quorum »quidam« quidem faciunt »centum quidam autem sexaginta quidam vero triginta«. sed ibi etiam ille qui triginta fecit salvatur. hic autem sermo arguit eum *qui unum* acceperat *talentum* et *abscondit* in *terram*. et quaero qui *quinque* acceperunt talenta, si possunt intellegi perfectiores qui diviniorem et sublimiorem acceperunt sensum scripturae, qui autem *duo* acceperunt, super litteram quidem paulo autem superius ascenderunt et non ad magnitudinem illam ascendere potuerunt, tertii autem, qui nihil super litteram quam acceperunt in primis. est ergo et de numeris omnino in his quae loquimur dignus sermo tali nostro domino salvatore, dico autem de quinque et duobus et uno.
+
+Nos autem modici et talia minus explicare potentes aestimamus, ne forte qui omnia quidem sensibilia scripturarum possunt deducere ad sensus diviniores (quos Salomon divinos appellat, et quos dicit Hieremias »sensus cordis«, et qui ad Hebraeos dicuntur a Paulo »sensus exercitati ad discretionem boni quoque et mali«), hi sunt qui extra *quinque* talenta alia quinque sunt lucrati, operantes in eis et per doctrinam exercitantes seipsos et ad maiorem scientiam erigentes;
+
+[GCS p.155]
+
+conversati enim salutariter et studiose docentes, operati sunt et lucrati sunt alia quinque; quia nemo facile additamentum accipit virtutis alterius nisi eius quam habet, utputa sapiens in sapientia crescit, fidelis in fide. aut ita: *alia* adquisivit *quinque*; quoniam unusquisque quod ipse scit hoc docet alterum, et quanta ipse scit tanta alterum docet, non amplius. propterea quidquid habuerit quis in se [PG 884] hoc alterum docendo adquirit in altero, faciens eum habere quod habet et ipse. propterea qui *quinque* habuit, non amplius adquisiisse dicitur nisi quinque, quae habuit, et qui *duo*, non amplius nisi duo quae habuit. si autem debemus et de duobus talentis dicere, et de illis dicemus, quoniam qui non permanserunt in littera, sed quaerentes ascendere sensu suo super eam, non autem potentes pervenire super ordinem praedictorum duorum, hi sunt qui ab eo qui cognoscebat virtutem eorum, acceperunt *talenta* duo corporalem doctrinam edocti (duo enim videtur carnalis numerus esse), et super haec lucrati sunt duo, id est corporaliorem e⟨ru⟩ditionem et aliam paulo ei sublimiorem.
+
+Erat autem aliquis servorum minorem colligens sibi virtutem, propter quam quasi minus potenti *unum* talentum paterfamilias dedit: quod *accipiens* servus habens aliquam *terram fodit*, et in altitudine eius posuit, cum debuisset sursum et in mensas mittere eum. quoniam autem proprii servi tres referuntur illius patrisfamilias esse, quaero si possunt, postquam crediderunt et servi facti sunt eius, quasi potentes negotiari. postea acceperunt a patrefamilias pecuniam eius, ut quidam quidem et *operatus* sit et *lucratus*, alius autem *lucratus*, alius vero prae timore non satis fidelis, *domini* sui *infodit* et *abscondit* pecuniam. et apparet in ipsa defensione per quae loquitur, quoniam timuit quidem dominum (habens dei timorem sicut alter »zelum dei«, »non autem secundum scientiam«), timens *abscondit* talentum suum in terra. tales sunt autem, qui neque movent neque discutiunt quae dicuntur neque seipsos ad prodificandas animas tradunt. sed latere volunt quae acceperunt et crediti sunt. si quando ergo videris aliquem, qui virtutem quidem aliquam adquisivit et habet dicendi et animas quantumcumque
+
+[GCS p.156]
+
+prodificantem, et hanc virtutem occultat (ut tantummodo tradat verbum nudum quod creditus est et accepit ut depositum ei a domino suo) et vivit in obscuro multis ignotus etiam magna peccata habentibus et non se profert in bono quod a deo accepit, quamvis habeat quandam religionem conversationis non vituperabilem multis, non dubites dicere eum talem esse qui *unum* accepit talentum et *abscondit* eum in terra.
+
+Si autem propter illud quod scriptum est, eum talem mitti »in tenebras exteriores«, displicet tibi quod dicitur, si propter quod non docuit quis, iudicatur quasi qui data sibi virtute ad prodificationem animarum non est usus, recordare apostolicum dictum quod ait: »vae enim mihi est si non evangelizavero«.
+
+non enim propter aliam quamcumque conversationem suam vituperabilem, sed propter hoc solum, si non praedicaverit evangelium, vae sibi confitetur futurum. manifeste enim apparet quoniam ille speravit audire: »serve male et piger« et cetera, nisi evangelizasset, quamvis alia vitae eius recta fuissent. haec enim et his similia debent in mente habere maxime qui mittunt »manum suam«, id est actum, »ad aratrum« docendi doctrinam Christi, ut cognoscentes quibus est vae (non propter aliud nisi quia non docent) repositum, non convertantur »retro« postquam semel miserint »manum suam ad aratrum« arantem animas hominum, ut post hoc et semina suscipiant verbi.
+
+Iste autem qui *sicut homo peregre futurus vocavit servos suos et tradidit eis bona sua*, »post multum temporis venit«, postquam dimisit aptos ad negotiandum animarum salutem. et ideo forsitan non facile invenitur quis ex eis, qui apti fuerint ad huiusmodi opus, ut cito transeat de hac vita; sicut est manifestum ex eo quod et apostoli senuerunt, ex quibus dicit ad Petrum: »cum senueris, extendes manum
+
+[GCS p.157]
+
+tuam«, et cetera; de Paulo autem dictum est ad Philemonem »nunc autem ut Paulus senex«, cum esset adolescentulus quando Stephanus pro Christi testimonio lapidabatur et ipse vestimenta servabat interficientium eum. hoc autem diximus propter quod dicit: *post multum temporis venit dominus servorum illorum.*
+
+et observa in hoc loco quoniam non servi ad dominum vadunt, ut iudicentur et digna actibus suis recipiant, sed *dominus venit* ad eos,
+
+cum fuerit inpletum quod dictum est: »quoniam venit tempus«. veniens autem *ponet rationem cum eis* de omnibus quaecumque egerunt, conpensans lucra bonorum operum et dispendia peccatorum, ut ponens *rationem* et diligenter universa discutiens unoquoque sicut oportet utatur. debemus ergo, quasi qui peccando damnum fec⟨er⟩imus bona autem operando lucremur, sic omni custodia corda nostra servare, ut cum venerit dominus noster et posuerit rationem nobiscum, non inveniamur nec pro otioso sermone damnum fecisse.
+
+== Comm. ser. 67 ==
+
+*Et accedens qui quinque talenta acceperat, obtulit alia quinque talenta dicens: domine, quinque talenta mihi dedisti, ecce alia quinque superlucratus sum. ait ei dominus eius: euge, serve bone et fidelis. quia super pauca fuisti fidelis, super multa te constituam, intra in gaudium domini tui. accedens autem et qui duo talenta acceperat, ait: domine, duo talenta mihi dedisti, ecce alia duo lucratus sum. ait ei dominus eius: euge, serve bone et fidelis: quia super pauca fuisti fidelis, super multa te constituam, intra in gaudium domini tui* (25, 20—23).
+
+Ita accessit primus quasi qui habuit fiduciam eo quod operatus fuerat et lucratus; nam fiducia ipsa fecit eum audere, ut ad dominum primus accederet et audaciter faceret sermonem dicens: *domine, quinque talenta mihi dedisti, ecce alia quinque talenta lucratus sum super ea.* [PG 885] ad quem dominus dixit vocem omnibus nobis optabilem, cum
+
+[GCS p.158]
+
+posuerit rationem etiam nobiscum dominus noster dicens: *euge, serve bone et fidelis*, contrariam ei voci quam dixit ad tertium: *serve male et piger*. quis non optet exhortationem accipiens ex ista scriptura, ut audiat a domino suo: *fidelis*, quod simile aestimo esse ei quod dictum est de Abraham, quoniam »credidit Abraham deo, et reputatum est ei ad iustitiam«. sic et ei, qui audivit a domino suo: *serve fidelis*, sine dubio fides eius ad iustitiam reputata est ei, ut reputata est ad iustitiam fides ipsius, qui in modico fuit *fidelis* (modica autem sunt omnia vitae istius), ut omne resurrectionis mysterium ei credatur et administratio supernorum bonorum.
+
+Videamus autem et, quo ingreditur servus iste bonus *et fidelis* qui in modico vitae istius fuit *fidelis*. *intra*, inquit, *in gaudium domini tui*. omnia enim ibi delectabilia et omnia gaudia, quando qui hic flent ibi ridebunt, et qui laudabiliter lugent consolationem accipient dignam. quod autem dicit (vel in eo *qui quinque talenta acceperat*, vel in isto *qui duo*): *accedens*, intellege mihi accessum et transitum de hoc mundo ad illum, et vide quoniam non aliam vocem dominus protulit ad secundum nisi quam protulit ad priorem dicens: *euge, serve bone et fidelis, super modica fidelis fuisti, super magna te constituam.* ⟨et⟩ quaero, quoniam eadem dicta sunt ambobus. ne forte et qui minorem habuit virtutem et totam illam, quam habuit, secundum quod oportebat exercuit, nihil minus habiturus sit apud deum, quam ille qui fuit in maiore virtute, ut inpleatur in eis quod dictum est: »qui multum non abundavit, et qui modicum non minoravit«. tale aliquid ostenditur et circa mandatum dilectionis ad deum vel ad proximum, dicens ita: »diliges dominum deum tuum ex toto corde tuo et ex tota anima tua et ex tota virtute tua«. sine dubio enim cum »ex toto corde« suo quis dilexerit deum »et ex tota anima« sua »et ex tota virtute« sua, talem dilectionis habet mercedem, qualem ille, qui maius habuit cor vel qui eminentiorem habet animam vel qui maiorem accepit virtutem. hoc enim solum quaeritur, ut quidquid habuerit homo ex deo, toto eo utatur ad gloriam dei.
+
+== Comm. ser. 68 ==
+*Accedens autem et qui unum talentum acceperat, ait: domine, scio quia homo durus es, et metis ubi non seminasti, et congregas ubi non*
+
+[GCS p.159]
+
+*sparsisti; et timens abii, et abscondi talentum tuum in terra: ecce habes tuum. respondens autem dominus eius dixit ei: male serve et piger, sciebas quia meto ubi non seminavi, et congrego ubi non sparsi? oportuit ergo te committere pecuniam meam nummulariis, ut veniens recepissem eam cum usuris* (25, 24—27).
+
+Videtur mihi iste *qui unum talentum accepit* fuisse inter credentes quidem, non autem et fiducialiter agentes in fide, sed latere volentes et omnia facientes, ut non cognoscantur quasi Christiani. forsitan autem et alii mores eorum non satis erant culpabiles, et quod acceperunt custodiunt quidem non autem et addunt, neque negotiantur neque fiducialiter agunt in eo; propterea verbum in eis non profecit ad maius neque alios adquisivit. adhuc videntur mihi qui huiusmodi sunt, timorem dei habere et sapere de eo quasi de aliquo austero et duro et inplacabili; sic enim ipsa verba significant respondentis et dicentis: *sciebam quia durus es,* et quasi qui sciebat eum metere *ubi non* seminavit *et* congregare *ubi non* sparsit. propter quod *respondens* ei *dominus eius* et arguens eum quasi malum servum et pigrum, non quidem confessus est se esse hominem durum. sicut ille arbitrabatur, ceteris autem sermonibus eius consensit dicens ei: *sciebas quia meto ubi non seminari, et congrego ubi non sparsi?*
+
+Quomodo autem intellegamus quod vere dominus noster metit ubi non seminavit, et congregat ubi non sparsit? mihi hoc videtur in loco isto: quoniam iustus »seminat in spiritu«, ex quo et »metet vitam aeternam«. omnia autem quae ab altero (id est a iusto viro) seminantur et metuntur ad vitam aeternam, metit deus; dei enim est possessio iustus, qui metit, ubi non ipse seminavit sed ille iustus.
+
+[GCS p.160]
+
+consequenter et illud dicemus, quoniam iustus »dispersit, dedit pauperibus«, dominus autem in se colliget universa quantacumque iustus »dispersit et pauperibus dedit«. metens autem quae non seminavit et congregans ubi non sparsit, sibi conputat et sibi arbitratur esse conlata, quaecumque pauperibus fidelibus fuerint seminata vel sparsa, dicens ad eos qui bene proximis suis fecerunt: »venite, benedicti patris mei, hereditate regnum quod vobis paratum est. esurivi enim et dedistis mihi manducare« et cetera.
+
+et quia vult metere ubi non seminavit et congregare ubi non sparsit, cum non invenerit, dicet ad eos qui ei non praebuerint metere et congregare: »discedite a me, maledicti, in ignem aeternum, quem praeparavit pater meus diabolo et angelis eius. esurivi enim et non dedistis mihi manducare« et cetera. nam et vere *durus* est (secundum quod ait Matthaeus) et »austerus« (secundum quod dixit Lucas), sed his qui misericordia dei abutuntur ad negligentiam suam non ad conversionem suam, sicut ait apostolus: »vide bonitatem dei et severitatem; in eos quidem qui ceciderunt severitatem, in te autem bonitatem si permanseris in bonitate«. qui enim bonum iudicat deum, credens indulgentiam accipere si fuerit conversus ad eum, illi bonus est deus. qui autem aestimat eum sic bonum, ut [PG 886] non curet de peccatis peccantium, illi non est bonus deus sed ⟨*durus* et⟩ »austerus«; zelans est enim super peccata hominum contemnentium se.
+
+[GCS p.161]
+
+Tamen, quasi Christo metente quae nos seminavimus et congregante quae nos sparsimus,
+
+seminemus »in spiritu« et spargamus »pauperibus« et talentum dei non abscondamus in terra.
+
+nec enim est bonus huiusmodi timor nec liberat nos talis timor ab exterioribus tenebris illis, cum fuerimus damnati quasi mali servi et pigri:
+
+mali quidem, quia non sumus usi probata illa *pecunia* dominicorum verborum, cum quibus poteramus negotiari et discutere Christianitatis eloquia et adquirere bonitatis dei altiora mysteria; pigri autem, quia non fuimus operati cum eloquiis dei salutem vel nostram vel aliorum.
+
+cum deberemus *mittere* pecuniam domini nostri, id est eloquia, auditoribus *nummulariis* qui omnia temptant et probant, ut bonum quidem dogma et verum teneant, reprobum autem et falsum repellant,
+
+ut cum venerit dominus, eloquia illa, quae commisimus nos, *cum usuris* recipiat et cum additamentis ab eis, qui acceperunt a nobis.
+
+omnis enim *pecunia*, id est omne verbum quod habet in se formam dei regalem et imaginem verbi eius, legitimum est.
+
+*nummulariis* ergo viris iubet credere verbum, qui possunt eius reddere *usuram*. reddit autem usuras verbi, qui alterum festinat salvare cum eo, sicut ipse salvatus est: sicut Andreas Petrum, Philippus Nathanael,
+
+[GCS p.162]
+
+Matthaeus publicanos. et hoc est quod dicit apostolus: »quae audisti a me per multos testes, haec commenda fidelibus hominibus, qui idonei erunt et alios docere«. similiter et dominus dicit: »nemo accendit lucernam et ponit eam sub modio, sed super candelabrum, ut introeuntes videant lumen«.
+
+== Comm. ser. 69 ==
+*Tollite ab eo itaque talentum et date ei qui habet decem talenta* (25, 28). Vides quia tollitur talentum a malo servo et pigro, et datur *ei qui habet decem talenta*. quomodo autem tollitur ab aliquo, quod datum fuerat ei, et alteri datur bene agenti, ut habeat etiam haec super illa quae adquisivit, non satis facile est explicare — tamen possibile est, quoniam qui idoneum facit in aliquo sensum in dogmatibus veritatis, potest sua divinitate deus auferens sufficientiam ab eo, qui pigrius ea est usus, dare ei qui eam multiplicavit.
+
+*Omni enim habenti dabitur et abundabit; ab eo autem, qui non habet, et quod habet auferetur ab eo* (25, 29). Utputa fidem *habenti* etiam quae est ex nobis, *dabitur* gratia fidei quae est ex deo per spiritum fidei *et abundabit*; et quidquid habuerit quis ex naturali creatione, cum exercuerit eum, accipit id ipsum et ex gratia dei, ut abundet et firmior sit in eo ipso quod habet.
+
+non enim de sapientia sola, sed de omni virtute intellegendum est nobis quod ait Salomon: »et si fuerit quis perfectus inter filios hominum, si abfuerit ab illo sapientia tua, in nihilum reputabitur«. sic et qui perfectus fuerit in castitate aut in iustitia aut in virtute aut ⟨in⟩ pietate, non fuerit autem ei aut castitas aut iustitia aut virtus aut pietas quae venit ex gratia dei, »in nihilum« reputatur huiusmodi homo. propterea si volumus ut detur nobis virtus perfectior et abundet in nobis, quod perfectum est inter homines per diligentiam omnimodo
+
+[GCS p.163]
+
+adquiramus; et postquam adquisierimus, quasi intellegentes quoniam *in nihilum* haec reputantur sine gratia dei, humiliemus nos ipsos *sub manu valida dei*, et oremus *sine ira et disceptatione levantes puras manus*, ut omnium bonorum quae sunt in nobis perfectio detur ex deo, et faciat nos perfectos et acceptabiles deo quasi filios dei.
+
+Iste autem *qui unum acceperat talentum* et *absconderat* eum in terra, non solum quasi malus *et piger* arguitur, sed quasi inutilis mittitur *in tenebras exteriores*, ubi nulla inluminatio est forsitan, nec corporalis, nec est respectio dei illic,
+
+sed quasi indigni speculatione dei, qui talia peccaverunt, condemnantur in his, quae *exteriores* tenebrae appellantur: forsitan donec intellexerint, ut convertantur et digni efficiantur exire ab eis; forsitan et propter aliam causam (quam nos ignoramus), quoniam legimus aliquem qui fuit ante nos exponentem de tenebris abyssi et dicentem quoniam abyssus est extra mundum foris et tenebrae. consideremus ergo si potest vera esse expositio eius, ut *exteriores tenebras* illas intellegamus, ut quidam quasi indigni toto mundo in abyssum illam (quam ille exposuit) foras eiciantur, in qua sunt tenebrae, nemine eas inluminante, cum sint extra totum mundum.
+
+== Comm. ser. 70 ==
+
+*Cum autem venerit filius hominis in gloria sua et omnes angeli cum eo, tunc sedebit super sedem gloriae suae; et congregabuntur ante eum omnes gentes, et cetera* (25, 31—34).
+
+[GCS p.164]
+
+Indiscussus quidem sermo videtur esse manifestus, quasi exhortans homines ad dandum et largiendum et avertens ab omni inhumanitate et parcitate. videamus tamen, quid quaerere oportet in eo propter eos, qui nihil aliud arbitrantur in eo nisi exhortationem humanitatis. certe secundum et gloriosum Christi adventum fore credit omnis ecclesia, quando et *filius dei* »qui adsumptus est in gloria«, sic cum *gloria* huc revertetur in specie sua et pulchritudine sua, ut corpus eius sit quale fuit, cum transformatus fuisset in monte coram tribus discipulis coascendentibus ei, ut iam non tribus nec aliis paucis, sed universis gentibus congregatis *ante eum* appareat. et *sedebit super sedem gloriae suae* et tunc *segregabit* malos a bonis — utrum autem omnes ab omnibus qui in omnibus generationibus [PG 887] fuerint, aut illae tantum …. quae in consummatione fuerint derelictae, aut illae tantum quae crediderunt in deum per Christum, et ipsae utrum omnes aut non omnes, non satis est manifestum. tamen quibusdam videtur de differentia earum, quae crediderunt, haec esse dicta. quantum ergo ad simplicem textum, nec qui *a dextris* consistunt alia causa laudantur et in *praeparatum regnum* vocantur, nisi propter solam humanitatem, nec qui sunt *a sinistris* alia causa confunduntur et deputantur in ignem nisi propter inhumanitatem. quid ergo? si isti, qui humani fuerunt, circa virtutes ceteras neglegentes fuerunt, consequentur talia haec promissa? aut illi, qui non fuerunt humani, si alias inpleverunt virtutes, maledicti erunt omnino et in ignem sunt condemnandi et hoc cum ipso diabolo? vides ergo quia necessariam habet sapientiam sermo.
+
+Item tractandum est, utrum in loco futurus est salvatoris adventus *in gloria*, aut alteram expositionem debemus exquirere. quis enim erit locus ille, ut capiat in uno aspectu et *omnes* angelos venientes cum Christo et *omnes gentes* illic congregatas? et de sede *gloriae eius* quid est dicendum? putas corporale aliquod subsellium erit, aut
+
+[GCS p.165]
+
+etiam hoc opus habet interpretatione subtiliore? propterea qui vult omnia rationabiliter intellegere, multam sapientiam inveniet et in istis, et periculosum quidem est de huiusmodi rebus exponere; sed ne propter intellectus difficultatem plenius tacentes derelinquamus eos, qui moventur in istis ad fluctuandum, pauca de multis (secundum quod possibile est) exponamus. aestimo ergo quoniam erit tempus adventus Christi, quando tanta manifestatio futura est Christi et divinitatis eius, ut non solum nullus iustorum, sed nec aliquis peccatorum ignoret Christum »secundum quod est«, quando et peccatores cognoscent in conspectu suo sua delicta et iusti manifeste videbunt semina iustitiae suae ad qualem eos perduxerint finem. et hoc est quod dicit *congregabuntur ante eum omnes gentes.* si enim modo, quando nec *omnes* cognoscunt Christum »secundum quod est«, nec ipsi qui videntur cognoscere palam eum cognoscunt, sed in fide tantum intrant homines in conspectum eius, quando agnitionem eius accipiunt per fidem, sicut scriptum est: »intrate in conspectu eius in exultatione« — quanto magis recte dicuntur *omnes gentes ante eum* congregandae et constituendae, quando palam omnibus, tam bonis quam malis, tam fidelibus quam infidelibus fuerit factus, ante oculos mentis eorum iam non fidei aut diligentiae alicuius inquisitione repertus, sed ipsius divinitatis suae manifestatione prolatus?
+
+Non in aliquo quidem loco apparebit filius dei *cum venerit in gloria sua,* in altero autem non apparebit, sed sicut ipse secundum conparationem fulguris exeuntis adventum suum voluit demonstrare, dicens: »si dixerint vobis: ecce in deserto, nolite exire; ecce in domo, nolite credere; sicut enim fulgur egreditur ab oriente et apparet usque ad occidentem, sic erit adventus filii hominis«. »sicut« ergo fulgur »egrediens ab oriente«, propter quod omnia inplet, »apparet usque ad occidentem«, sic *cum venerit* Christus *in gloria sua,* propter quod ubique futurus est. et ipse in conspectu omnium erit ubique et omnes ubique erunt in conspectu ipsius, et sic constituentur ante sedem gloriae eius, hoc est ante regnum eius et potestatem
+
+[GCS p.166]
+
+dominationis ipsius. *sedes* autem eius aut certe quidam perfectiores sanctorum dicuntur (de quibus scriptum est: »quoniam illic sederunt sedes in iudicio«) aut quaedam virtutes angelicae (de quibus dicitur: »sive sedes sive dominationes«). ergo rex saeculorum deus verbum, qui et in forma factus est *hominis, sedebit super* huiusmodi *sedem gloriae suae; et congregabuntur ad eum omnes gentes,* iam non dispersae in dogmatibus falsis et multis de eo, et sic erunt *ante eum,* ut non localiter audiamus *omnes gentes* fieri *ante eum,* sicut nec localiter audimus iustos ei dicturos quae sunt dicturi. quamdiu ergo confusi sunt iniqui, nec se cognoscentes nec Christum, sed in erroribus intenebricati tenentur, et iusti quamdiu »per speculum et in aenigmate« vident et »ex parte« seipsos cognoscunt. non secundum quod vere sunt — tamdiu non sunt segregati boni a malis. cum autem propter manifestationem filii dei omnes ad intellectum venerint suum, tunc salvator *segregabit* bonos a malis.
+
+*Oves* autem dicti sunt, qui salvantur propter mansuetudinem.
+
+quam didicerunt ab eo qui dicit: »discite a me, quia mitis sum et humilis corde«, et propter quod »usque ad occisionem« parati fuerunt venire imitantes Christum. qui »sicut ovis ad occisionem ductus est. et sicut agnus coram tondente se sine voce«, et non simpliciter »sine voce«, sed »coram tondente se sine voce«, id est coram auferente quae sunt ipsius et diripiente.
+
+*haedi* autem dicuntur mali, qui aspera et dura saxa male ascendunt
+
+et per praecipitia eorum incedunt. sic intellege mihi et sanctos *a dextris,* qui dextra opera operati sunt et plenius sunt conversi ad iustitiam,
+
+[GCS p.167]
+
+quae semper *a dextris* est dei. propterea secundum dignitatem actuum suorum dextrorum *a dextris* consistunt, et acceperunt mercedem actuum suorum dextrorum dextram regis, in qua requies et gloria est. qui autem ad perversitatem vitae seipsos separaverunt a dextris propter opera sua pessima et sinistra, ceciderunt in sinistram, id est in tristitiam tormentorum damnati, propter quod *a sinistris* consistunt. *tunc dicet rex ad eos qui sunt a* *dextris* invitans eos ad se: [PG 888] *venite* ut quidquid minus fuerat eis, cum perfectius uniti fuerint Christo, consequantur, audientes: *venite* et facientes. tale est et quod dicit apud Lucam: »auferte talentum ab eo, et date ei qui habet decem. omnis enim qui habet addetur ei, qui autem non habet et hoc, quod videtur habere, auferetur ab eo«. vocat autem illos benedictos patris, addito *benedicti patris mei*, ut eminentia benedictionis eorum manifestetur, qui benedicti sunt a domino »qui fecit caelum et terram«, et forsitan quia sunt aliqui benedicti inferiores. qui *benedicti* quidem sunt non autem *patris*.
+
+== Comm. ser. 71 ==
+71. *Accipite regnum quod vobis praeparatum est a constitutione mundi.* [quod in Latino habet *a constitutione mundi* in Graeco sic habet *a depositione mundi*, et secundum Graecum sermonem exponit quae secundum Latinum non conveniebat exponere]. quare autem nomine depositionis de mundo frequenter utuntur scripturae, sicut et hic dicens *a depositione mundi*, quaerat qui potest, sciens quia non omne, quod creatum est, depositum dicitur, nec scriptum est alicubi *a depositione* sedium aut dominationum aut principatuum. congregans
+
+[GCS p.168]
+
+autem ex omnibus nomen depositionis, si forte in altero aliquo dictum est, et conparans ea cum his, quae dicuntur de *mundi depositione*, ascendens per verbum ad cetera creata quidem non autem deposita, ex eo quod non est eorum factura depositio, videbis causam nominatae depositionis, quod nomen tantum de mundo suscipitur. credere autem haec talia litteris quae possunt et in manus hominum male moratorum venire et calumniatorum et novitatis amatorum, non est religiosum, ut ne margaritae nimis exoperatae ante porcos mittantur neque sancta canibus dentur.
+
+== Comm. ser. 72 ==
+72. *Esurivi et dedistis mihi manducare, et cetera* (25, 35—41).
+
+Videtur mihi per haec, quia non unius iustitiae species remuneratur, sicut aestimant multi. absurdum est enim nihil aliud intellegere virtutis in eo, qui ita remuneratur, nisi tantum communicationem humanitatis. non autem hoc dicimus, ut neglegentius studeamus humanitatem, cum sit omnibus fidelibus praecipue observanda, sed ut omnia aequaliter aut ut paene aequaliter studeamus, ut propterea ex omnibus omnem benedictionem percipiamus »in caelestibus in Christo Iesu«. primum autem sciendum est quoniam, sicut (quantum ad textum) non sufficit ad consequendam regni caelestis hereditatem, dare esurientibus manducare, nisi et cetera fecerimus quae subsequuntur, sic non est possibile omnia illa secundum textum inplere, sicut aestimant multi, nisi ex parte egerimus contra dei mandatum. necesse est enim et quaestuosum esse, ut det cibum et potum et vestimentum Christo esurienti et sitienti et algenti in sanctis, ut hoc modo et peregrinum eum colligat et infirmum ⟨eum⟩ visitet et eat ad eum in carcerem. vere autem sive secundum simpliciora et corporalia benefacta intellegamus sive secundum spiritalia, certum est quoniam sive hoc sive illo modo quis faciat opus bonum et nutriat animas spiritalibus cibis sive qualemcumque speciem boni operis quis fuerit operatus propter deum, Christo esurienti et sitienti dat cibum et potum. sive quae facimus sanctis, qui sunt divites meritis pauperes
+
+[GCS p.169]
+
+rebus, sive in quibuslibet, qui meritis pauperes sunt etsi fuerint divites rebus, sive in qualibuscumque causis mandatum Christi quis fecerit — Christum cibat et potat, qui fidelium iustitiam et veritatem manducat et bibit.
+
+Item Christo algenti teximus vestimentum accipientes sapientiae texturam a deo, ut per doctrinam aliquos doceamus et induamus eos »viscera misericordiae, castitatem, mansuetudinem, humilitatem« ceterasque virtutes: quae omnes virtutes spiritalia sunt vestimenta eorum qui audiunt doctrinam docentium eas secundum eum, qui dicit: »induite vos viscera misericordiae, benignitatem, humilitatem, mansuetudinem« et cetera, magis autem et ipsum Christum qui haec omnia fidelibus est, secundum eum, qui dixit: »induite dominum Iesum«. cum ergo huiusmodi vestimentis vestierimus *unum de minimis* in Christo credentibus, ipsum dominum videmur vestisse, ut ne (quantum ad nos) nudum sit verbum dei in mundo. sed et peregrinum dei filium constitutum debemus suscipere et domesticos corporis eius peregrinos in mundo, ⟨mundos⟩ ab omnibus actibus corporalibus, sicut ipse et de se et de discipulis suis dicit: »et isti non sunt de hoc mundo, sicut et ego non sum de hoc mundo«. et quaerit Christus cum suis animam ubi succedat. quando ergo praeparamus cor nostrum diversis virtutibus ad receptaculum eius vel illorum qui sunt ipsius, ipsum peregrinantem suscipimus in domum pectoris nostri, facientes »cenaculum magnum, mundatum et ornatum« ad susceptionem Christi peregrinantis in mundo ceterorumque discipulorum ipsius. quorum enim verbum suscipimus, ipsos suscepisse videmur in nobis, et per ipsos Christum, cuius baiulant verbum.
+
+Item in infirmatis hominibus, sive a fide sive ab aliquo opere bono, aut scandalum patientibus Christus infirmatur et scandalum patitur, sicut ipse dicit ad Petrum quae carnis sunt sapientem: »scandalum mihi es«, hoc est: infirmitas mihi es. sed et omnes discipuli
+
+[GCS p.170]
+
+eius dilecti simul cum talibus infirmantur et scandalum patiuntur dicentes: »quis infirmatur, et non infirmamur? quis scandalizatur, et non urimur nos«? et si discipuli eius coinfirmantur infirmis, quanto magis ipse salvator creator [PG 889] ipsorum? nam quem maior misericordia tenet hominum infirmorum, gravior constringit infirmitas talem. cum ergo unum *fratrum* infirmatorum visitaverimus, aut per doctrinam aut per increpationem aut per consolationem aut precibus aut terrore iudicii aut aliqua bona opera facientes in eum fecerimus meliorari in Christo, ipsum Christum visitavimus et confortavimus *infirmatum*, et ceteros discipulos Christi talibus passionibus coinfirmatos refrigeravimus, sicut Paulus ad Philemonem dicit: »gaudium enim magnum habuimus et consolationem in caritate tua, quia viscera sanctorum requieverunt per te, frater«. et ne putes esse blasphemum, *infirmum* dicere Christum. ipse enim »ex infirmitate est crucifixus« propter misericordiam, et »ipse infirmitates nostras portat« et omnes noti ipsius. deinde omne quod hic est, carcer est Christi et eorum qui sunt ipsius. propterea eamus ad eos, qui in domo vinculorum istorum habentur quasi *in carcere*, et sunt in hoc mundo degentes quasi carcere naturae necessitate constricti. cum ergo abierimus ad tales et omne opus bonum fecerimus in eis, visitavimus eos *in carcere* et Christum in eis.
+
+Videamus autem nisi generaliter haec intellecta et ad simplicem humanitatem nos exhortantur et ad omnia laudabilia facta, ut benedictionem dignis dicentem: »venite, benedicti patris mei« consequi quis valeat digne. non autem *iusti* obliti eorum, quae egerunt, *tunc respondebunt ei dicentes: domine, quando te vidimus esurientem?* et cetera, sed humilitatis causa laude benefactorum suorum indignos se proclamantes. ipse autem volens eis ostendere suam conpassionem in suis, etiam se pronuntiat esse in quibus fuerint fratres eius, dicens:
+
+[GCS p.171]
+
+*amen dico vobis, ex eo quod fecistis uni minimorum istorum fratrum meorum, mihi fecistis.* videamus nunc quod dicit iustis: »venite, benedicti patris mei«, iniustis autem: *discedite a me*, cum fuissent utique fideles, et intellegimus inpletum in eis quod scriptum est: »omni habenti dabitur et abundabit; ab eo autem qui non habet etiam quod videtur habere auferetur ab eo«. nam propinqui sunt verbo, qui servant dei mandatum et vocantur, ut adhuc magis propinquiores efficiantur, audientes: »venite, benedicti patris mei«; longe autem ab eo sunt (etsi videantur assistere ei), qui non faciunt mandata ipsius. propter hoc tolletur ab eis et quod sibi videbantur adsistere ei, audientes: *discedite a me*, ut qui modo vel videntur esse ante eum, postea nec videantur. propter quod et nos debemus nos conservare, ne audiamus et ipsi, quasi elongantes nos ipsos a domino: *discedite a me*, et omnia faciamus, ut dicatur ad nos: »venite, benedicti patris mei«. considerandum est autem quoniam in sanctis non solum dictum est »benedicti«, sed cum additamento non qualemcumque honorem habenti, id est »benedicti« non alicuius alterius nisi »dei patris«.
+
+econtra autem quibus dicitur *maledicti*, non dicitur *maledicti* patris mei. nam benedictionis quidem ministrator est pater, maledictionis autem unusquisque sibi est auctor, qui maledictione digna est operatus.
+
+Qui autem recedunt ab Iesu, decidunt *in ignem aeternum*, qui alterius generis est ab hoc igne, quem habemus in usu. nullus enim ignis inter homines est aeternus, sed nec multi temporis, extinguitur enim cito. aeternus autem ignis est ille, de quo et Esaias dicit in fine prophetiae suae: »vermis eorum non morietur, et ignis eorum non extinguetur«. forsitan talis substantiae est, ut invisibilia conburat ipse invisibilis constitutus, secundum quod ait apostolus, quoniam »quae videntur, temporalia sunt; quae autem non videntur, aeterna«.
+
+[GCS p.172]
+
+si ergo »quae videntur, temporalia sunt, quae autem non videntur, aeterna sunt«, necesse est, si visibilis est ille ignis, et temporalis sit; si autem aeternus est, et invisibilis est, quo puniuntur qui recedunt a salvatore. tale est quod dicit et Iob: »comedet eum ignis qui non accenditur«. ne autem mireris audiens esse invisibilem *ignem* et punientem, cum videas inter homines calorem corporibus accidentem et non mediocriter cruciantem, maxime illos, qui ab eo validissime molestantur. et considera quoniam regnum quidem non aliis praeparatum dicit »a constitutione mundi« nisi iustis, et ideo reddet eis eum rex eorum Christus. *ignem* autem *aeternum* non illis, quibus dicitur *discedite a me maledicti, paratum* ostendit, sicut regnum iustis, sed *diabolo et angelis eius.* quia (quantum ad se) homines non ad perditionem creavit sed ad vitam et gaudium, peccantes autem coniungunt se diabolo. et sicut qui salvantur sanctis angelis coaequantur et fiunt »filii resurrectionis« et »filii dei« et angeli, sic qui pereunt diaboli angelis coaequantur et fiunt angeli eius.
+
+== Comm. ser. 73 ==
+*Esurivi enim et non dedistis mihi manducare, et cetera* (25,42—46).
+
+Scriptum est ad fideles: »vos estis corpus Christi, et membra ex parte«. sicut ergo anima habitans in corpore, cum non esuriat quantum ad suam substantiam spiritalem, esurit tamen unumquemque corporis cibum, quia copulata est corpori suo, sic et salvator patitur quae patitur corpus eius ecclesia, cum sit ipse inpassibilis quantum ad suam divinitatem. sanctis enim indigentibus cibo et ipse esurit, aliis autem membris suis necessariam habentibus medicinam et ipse quasi *infirmus* necessariam habet, item aliis susceptione opus habentibus ipse quasi *peregrinus* in eis quaerit, »ubi caput suum reclinet«, sic et in nudis alget et in vestitis vestitur. et si ex dilectione Paulus dicit: »quis [PG 890] infirmatur, et non infirmor?« et hoc magis ad laudem respicit apostoli ostendentis magnitudinem caritatis suae circa fideles, quomodo non magis, quam Paulus et omnis homo dilectione ornatus, filius caritatis dei salvator dicere potest convenienter: »quis infirmatur, et
+
+[GCS p.173]
+
+non infirmor? quis scandalizatur, et ego non uror? propter quod dicit *infirmus et in carcere fui, et non visitastis me*. in carcere enim membro Christi constituto, ipse non est solutus a carcere qui dicit de iusto: »cum ipso sum in tribulatione«, hoc est: contribulor ei. sicut enim qui meus est, in tribulatione ⟨mecum⟩ est, sic et ego in tribulatione cum eo sum. et hoc dico non ignorans vulgariorem illam traditionem.
+
+Et hoc considera, quia inmoratur in unoquoque verbo loquens ad iustos et laudans eos et per singulas species eorum benefacta dinumerat, loquens autem ad iniustos praecidit conpendians et concolligens malefacta eorum in breve. id est iustis quidem de infirmitate dicit: »infirmus fui, et visitastis me«. separatim autem de carcere: »in carcere fui, et venistis ad me«; ad iniustos autem cum potuisset similiter dicere: infirmus fui et non visitastis me. in carcere fui, et non venistis ad me. praecidens narrationem subunavit utrumque, dicens *infirmus fui et in carcere, et non visitastis me*. quoniam misericordis iudicis erat benefacta quidem hominum largius praedicare et ampliare, malefacta autem eorum transitorie memorare ac breviare. sed et iusti inmorantur in unoquoque verbo dicentes: »quando te vidimus esurientem et cibavimus, aut sitientem et potavimus? aut nudum et vestivimus, aut peregrinum et collegimus? aut quando te vidimus infirmum aut in carcere?« quoniam proprium est iustorum benefacta sua relata sibi in facie diligenter et per singula refutare causa humilitatis: tamquam si dicente domino: hoc et hoc et hoc bonum in me fecistis, illi recusantes dicant: nec hoc nec hoc nec hoc fecimus tibi. iniusti non ita per singula, sed cursim dicunt: *quando te vidimus esurientem aut sitientem aut peregrinum aut nudum aut infirmum aut in carcere et non ministravimus tibi*. verbum *ministravimus tibi* ad omnia referentes, et quasi praecidentes et praetereuntes crimina sua, ut non graviora videantur diligenter et singillatim enumerata: quia proprium malorum hominum est culpas suas (excusationis causa) aut nullas velle ostendere aut leves et paucas.
+
+[GCS p.174]
+
+Sed et responsio Christi, tam ad iustos facta quam ad iniustos, hunc ipsum significat intellectum. volens enim iustorum benefacta ostendere grandia, peccatorum autem culpas non grandes, ad iustos quidem dicit: »ex eo quod fecistis uni ex minimis istis fratribus meis, mihi fecistis«, ad iniustos autem sic: *ex eo quod non fecistis uni ex minimis istis, nec mihi fecistis,* non adiciens »fratribus meis«, quemadmodum cum loqueretur ad iustos. nam abusive quidem omnes credentes in Christo fratres sunt Christi, revera autem fratres eius sunt, qui perfecti sunt et imitatores sunt eius, sicut ille qui dixit: »imitatores mei estote, sicut et ego Christi«, qui possunt dicere: »pater noster qui es in caelis«. gratius autem est apud deum opus bonum, quod fit in sanctioribus quam in minus sanctis, et levior culpa est neglegere minus sanctos quam sanctiores. minimos autem dicit aut quasi in mundo minimos aestimatos, aut quia apud seipsos minimi erant — volentes enim apud deum fieri magni, seipsos minimos faciebant, quasi carissimi discipuli eius, qui dixit: »discite a me, quia mitis sum et humilis corde«. et hoc adtende quoniam cum prius dixisset: »venite, benedicti«, deinde: »discedite, maledicti« (quoniam proprium boni dei est primum recordari benefacta bonorum quam malefacta malorum), postea in exitu utrorumque prius nominat poenam malorum deinde vitam bonorum, dicens: *et abibunt illi in poenam aeternam, hi autem in vitam aeternam,* ut primum quae timoris sunt evitemus mala, postea quae honoris sunt adpetamus bona.
