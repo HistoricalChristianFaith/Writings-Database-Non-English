@@ -1,0 +1,9 @@
+# Origen, Homilies on Psalms 36–38 — Praefatio (Rufinus's Prologus, to Apronianus): why he gathered the nine homilies into one Latin book. As printed by Migne.
+# Rufinus of Aquileia's preface to his Latin translation of Origen's homilies on Ps 36–38 (c. 401).
+# Source text: Migne, Patrologia Graeca 12, col. 1319 (Rufinus's Latin, In Psalmos).
+# Scripture is quoted in Old-Latin / LXX wording (Rufinus renders Origen's lemmata, not the Vulgate).
+============================================================
+PROLOGUS RUFINI PRESBYTERI.
+In explanationem super psalmos trigesimum sextum, trigesimum septimum, et trigesimum octavum.
+
+Quoniam trigesimi sexti, et trigesimi septimi, et trigesimi octavi psalmi expositio tota moralis est, instituta quaedam vitae emendatioris ostendens, et nunc conversionis ac poenitentiae, nunc purgationis et profectuum semitam docet, idcirco tibi eam, Aproniane, fili charissime, in novem oratiunculas, quas Graeci homilias vocant, velut in uno corpore digestam in Latinum transtuli, ut intra unum codicem collectam haberes dictionem, quae ad emendationem vel profectionem morum tota respiceret. Huc sane beneficium praestabit haec lectio, quod absque labore lectoris intelligentia eius in propatulo habeatur, quo scilicet ea simplicitas sensu lucido ac simplici sermone doceatur, ex quo prophetia pervenire non solum ad viros, verum etiam ad religiosas feminas possit, et excolere simplices mentes: ne forte religiosa filia mea, soror in Christo tua, ingrata sit operi nostro, si id semper laboriosum intellectui suo pro asperitate sentiret quaestionum; quia nec corpus humanum ex solis potuisset nervis ossibusque constare, nisi eis divina Providentia, vel mollitiem carnis intexuisset, vel blandimenta pinguedinis.
